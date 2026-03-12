@@ -1,0 +1,884 @@
+# pack-refs with: peeled fully-peeled sorted 
+6e1d5d047e984ff1ec8d860f510ad276fe4af2c5 refs/heads/freedesktop.org/agpgart_2_0_branch
+f7c157caada4cf12bb884412e60ef013f690eb3e refs/heads/freedesktop.org/amdgpu
+c32678720cbd04f059aa7da6c0d12e64ffda83a7 refs/heads/freedesktop.org/ati-4-0-0-branch
+963dfed38835d8a75cfbed5d4f30769339134bde refs/heads/freedesktop.org/ati-4-0-1-branch
+49e00c7aa09f7b998ef868dd2440cbe035da2d7d refs/heads/freedesktop.org/ati-4-1-0-branch
+7950295132b834df9a1cb01a94868c372b91a39f refs/heads/freedesktop.org/ati-4-1-1-branch
+0885a6be6dbe2d0e840aa32fba5ded2b038ec23a refs/heads/freedesktop.org/ati-5-0-0-branch
+165c21d23ac526958e90807376c444de25c71d86 refs/heads/freedesktop.org/ati-5-0-1-branch
+797dbc850caa573ecd7c609e725906c585cbf14c refs/heads/freedesktop.org/ati-pcigart-0-0-1-branch
+84eb47efbeaa07dd7526383b10234389a003d90b refs/heads/freedesktop.org/ati-pcigart-1-0-0-branch
+fb744b47fad9a7384ced000cb272aeba480bc962 refs/heads/freedesktop.org/bsd-1-0-0-branch
+c2795393281e915c53b347eba0a427d4d375a1ac refs/heads/freedesktop.org/bsd-1-0-1-branch
+ee319e3a4cc22fb593704b9ea5180b847e5dbd73 refs/heads/freedesktop.org/bsd-2-0-0-branch
+9a0d90c74eefcb13e4cfc77a4c7b8b737397e988 refs/heads/freedesktop.org/bsd-3-0-0-branch
+734270fb379417d5c13550423556999ee93b4b4f refs/heads/freedesktop.org/bsd-4-0-0-branch
+0e190e511a5fab1148ab1eb87c0346dac5271ce3 refs/heads/freedesktop.org/cle266-0-0-1-branch
+a470e8b0b475989c1023d32900a66a4014fff19a refs/heads/freedesktop.org/dri2-swapbuffers
+6bb28dade35ef35f5e677bb1d2c2107dc588750e refs/heads/freedesktop.org/driinterface-0-0-3-branch
+79db46ccef7abf8d18bcf84bd72bda4aca842b86 refs/heads/freedesktop.org/drm-filp-0-1-branch
+1e0a04b52070e2f5fd8d476fd2d22997104315a1 refs/heads/freedesktop.org/drm-sman-branch
+dde85024f2d2dc7505ae9b033b11bc3233e18e1f refs/heads/freedesktop.org/drm-ttm-branch
+78de7fd3d8d1b194d699f0aaa19069bd7fa5f301 refs/heads/freedesktop.org/drmcommand-0-0-1-branch
+12f4cdb5b7b8fa5a1099614d6085ae08896b0ea1 refs/heads/freedesktop.org/drmfntbl-0-0-1
+afb4fc9bbb7b4add3c78211f1378a3a03016275b refs/heads/freedesktop.org/drmfntbl-0-0-2-branch
+4b1acac672f93bed056ae5563a82826e7ab634b1 refs/heads/freedesktop.org/drmlib-0-0-1-branch
+574c9eac3f3ce124c0cdbea26ffff5496ea20872 refs/heads/freedesktop.org/gamma-1-0-0-branch
+2bea25890bacfa0f1fdc18cda63105c07157cad8 refs/heads/freedesktop.org/gamma-2-0-0-branch
+d15a2761499f449265c38e8f552de691fe50c6c0 refs/heads/freedesktop.org/glxmisc-1-0-0-branch
+cc45f9edd0e27498c8c17a736bd026c406384200 refs/heads/freedesktop.org/glxmisc-3-0-0-branch
+f38fcc12bc3eb25b694c503e15f8011abbc0cd85 refs/heads/freedesktop.org/i865-agp-0-1-branch
+d734992e6a8a5757dc360ab6a5e7c80ebc03b1cd refs/heads/freedesktop.org/i915-pageflip
+b257bbe48a0851d27150d21cd124af2dc3e53385 refs/heads/freedesktop.org/i915-zone-rendering
+b3134ddf50fb00472e362223eed27630aa00fe13 refs/heads/freedesktop.org/i915tex-compat
+3e16b2c4f9ae25b6b617c7b90690f396f93dfda1 refs/heads/freedesktop.org/import-1.1.1
+c5000611168ac73a596a2b20ba8cb587964fdfd4 refs/heads/freedesktop.org/intel-post-reloc
+a470e8b0b475989c1023d32900a66a4014fff19a refs/heads/freedesktop.org/kms-pageflip
+d96e6e3ca6026bd499a1bd4381dea833e68a66ab refs/heads/freedesktop.org/libdrm-1_0-branch
+5f4f03d8c9fda330e1357a20461b07129e0d249a refs/heads/freedesktop.org/libdrm-2_0-branch
+409d6818eba8a2e2938e0f9281c9318928ba5a35 refs/heads/freedesktop.org/libdrm-2_3-branch
+5c586161adf3a70de352603cd5c5a9c3227dd56b refs/heads/freedesktop.org/mach64-0-0-0-branch
+996eeb8ed8ed8ae8c704f4ce576c86341db5238a refs/heads/freedesktop.org/mach64-0-0-1-branch
+5746763035e485153e8ee77c66d184539f9825eb refs/heads/freedesktop.org/mach64-0-0-2-branch
+b7ff3cdd0fb85b9f3c60ea4a47bc2656259aef83 refs/heads/freedesktop.org/mach64-0-0-3-branch
+9f0e6cad0e0aebd6bae151ad946bf3a8ba4a4d5b refs/heads/freedesktop.org/mach64-0-0-3-dma-branch
+19c4d51b2d0539900b3017bc3d876bc3ba64972f refs/heads/freedesktop.org/mach64-0-0-4-branch
+2e790fa43cddd6727849bd0e90c62dd46c3217b7 refs/heads/freedesktop.org/mach64-0-0-4-dma-branch
+95795c2b96a941b590ffa2d53b21d304b884f86d refs/heads/freedesktop.org/mach64-0-0-5-branch
+8488865c19213d5529784a4e9cdd0cdf2827bdc7 refs/heads/freedesktop.org/mach64-0-0-6-branch
+1193094aa3f642ca5c9c9214cac9eb701cd4daf8 refs/heads/freedesktop.org/mach64-0-0-7-branch
+85393adb12ad6277b21b885f11a3b94ef2d531db refs/heads/freedesktop.org/main
+8d0fb9b3f225183fb3276a0e4ae1f8354a3519e8 refs/heads/freedesktop.org/master
+e24b1d44cdf1ba9d03cf44c1fe8f8f32e6a81a93 refs/heads/freedesktop.org/merge-requests/40/head
+e9624788753c69680580497ee27595f8a1df9640 refs/heads/freedesktop.org/mesa-3-5-branch
+939c60b80a579c9b3eeb9f23fbb269cb19229623 refs/heads/freedesktop.org/mesa-4-0-4-branch
+bf01c96677fba8e7b0c8d1281b87d59256be7525 refs/heads/freedesktop.org/mesa-4-0-branch
+e04ed6376b5959e49fe82ad3dc0c7b4bff2cd6d5 refs/heads/freedesktop.org/mesa-4-1-branch
+c222e2ed6c4d9a85756ff64121f7687501c271e0 refs/heads/freedesktop.org/mga-0-0-1-branch
+fc91722107aa32b61ef8bb74ae08da371733f900 refs/heads/freedesktop.org/mga-0-0-2-branch
+4b2c25c1ab49599ae5441435dc2c4e89a61facb2 refs/heads/freedesktop.org/mga-0-0-3-branch
+e9efc1097c2489fc732e04a23534e132780e6e51 refs/heads/freedesktop.org/mga-1-0-0-branch
+9348a4f62b2bb5705ec9c49b79f240e0153080fa refs/heads/freedesktop.org/mga-lock-debug-0-0-1-branch
+dbb7bbe85d8fea504bd872eb7815031402e4c9e3 refs/heads/freedesktop.org/mga-lock-debug-0-2-0-branch
+91f3b84f30f655cea7a94f9d34937af916d4f2a4 refs/heads/freedesktop.org/mga-readpix-0-0-1-branch
+c37a7e26cd15a6a96587be2b17d22bdec4744a02 refs/heads/freedesktop.org/mgadh-0-0-3-branch
+9c7137483d1ef47eaff99f98b3c4e552c726e5d9 refs/heads/freedesktop.org/modesetting-101
+3796c9671a5a9f88cbbdb75351cf1cd1fa549edb refs/heads/freedesktop.org/modesetting-101-hotplug
+0f35c5c9538d8e1eb25023bc5ef21063a766042b refs/heads/freedesktop.org/modesetting-dirty
+1edb70f1b909d06f1c0ee7c9c794aec99454e488 refs/heads/freedesktop.org/modesetting-gem
+c060b56467c6de03327ad8814fac2924bde94e00 refs/heads/freedesktop.org/modesetting-newttm
+b34f558ebc30ca46d0e1ff015f88f2f1b92b345e refs/heads/freedesktop.org/multihead-1-0-0-branch
+b47c057d6932798ff174ddce68486c262ca8e3a6 refs/heads/freedesktop.org/my-new-branch
+add8415148b8b75e6e3d8187087489219a5f8a4a refs/heads/freedesktop.org/newdrm-0-0-1-branch
+d21a889fe8746d77b6aae3b12e14bd263a249ee8 refs/heads/freedesktop.org/newioctl-0.1
+b9f4c0757855c35c67db5eb5d868bb2c960930ea refs/heads/freedesktop.org/newmesa-0-0-1-branch
+3ebe7d1656cc9dbf7ac889bac227107acacc6f4a refs/heads/freedesktop.org/pageflip
+3b4857d2ceabb0cfd4ad55611b38c11187c25da7 refs/heads/freedesktop.org/ppc-1-0-0-branch
+ef8cea20abb2b4c72d1f15d37106088448fbff9b refs/heads/freedesktop.org/ppc-1-0-1-branch
+0e5792d7e85bc9799890a1cc3de5ad10de1789eb refs/heads/freedesktop.org/pre-superioctl-branch
+c3d2e90cc79c1b942e184c2dfb708965b38bb344 refs/heads/freedesktop.org/r200-0-1-branch
+6d211331e65b35a88b8577a1c0f4f054b5255ab1 refs/heads/freedesktop.org/r200-0-2-branch
+a4b02e34306d5c72ac75a0128826a70f71da7289 refs/heads/freedesktop.org/r200-stable-1-0-branch
+0101127af0815a7da49253a3af54a1aa4e672567 refs/heads/freedesktop.org/r6xx-r7xx-support
+3df7bd6ce2bf07ddd09090193b4ced83ab79c127 refs/heads/freedesktop.org/radeon-1-0-0-branch
+b41983cae938f50772f2aabed6a3502101505b96 refs/heads/freedesktop.org/s3virge-0-0-1-branch
+22a4ea4b5aee5a52fe542831d523c2a10aa00095 refs/heads/freedesktop.org/sarea-1-0-0-branch
+11f48d1bfbf4e78f344256f1a551d3910c878256 refs/heads/freedesktop.org/savage-0-0-1-branch
+03e95cf27a727d656a912be4504df31fdcdc970c refs/heads/freedesktop.org/savage-1_0_0-branch
+a3959a70d59716390bf24ddac0e60a9ba2411ef5 refs/heads/freedesktop.org/savage-2-0-0-branch
+b04e5d204da9f29bf12ad05040cac879fbe26525 refs/heads/freedesktop.org/tcl-0-0-branch
+e8876dc05d55a013835b941c1f492af6d0159372 refs/heads/freedesktop.org/tdfx-1-1
+5d122e6a09d0b956cab6c351f282373140dfbfee refs/heads/freedesktop.org/tdfx-2-0-branch
+c68634b2d39c79ff22bdec189dfa77fb5bb9cbed refs/heads/freedesktop.org/tdfx-2-1-branch
+be15c03e7a02f585908d9b851bec91ad74b76576 refs/heads/freedesktop.org/tdfx-3-0-0-branch
+4baa68b75e7fac0b7fdd4bea5b441df029c3b5cb refs/heads/freedesktop.org/tdfx-3-1-0-branch
+d46925898f8ae56b7a897f5a2b9362ea4a17c577 refs/heads/freedesktop.org/tdlabs-0-0-1-branch
+189ad4f724036aeb37ef4e7b5b7d25e3f3250bd8 refs/heads/freedesktop.org/texmem-0-0-1
+94960ed1806ab9721cbdbf4ae3e6f296f76c6339 refs/heads/freedesktop.org/trident-0-0-1-branch
+774076fdf65587255ff17e9fcd53b842775eadbf refs/heads/freedesktop.org/trident-0-0-2-branch
+f8aa7b7612f4cf661469bfbf994728fb275fe9e0 refs/heads/freedesktop.org/vblank-event
+3f84bbb3c1d3721f95f248634d1871be3ffa005e refs/heads/freedesktop.org/video-1-0-0-branch
+f5ea20c284e974deeefdc7bab0309749072264b3 refs/heads/freedesktop.org/xgi-0-0-1
+8aecdbea7660ae184827a0812fc4bbd953279c5b refs/heads/freedesktop.org/xv845g-0-1-branch
+174eceda365df0b4587828e548f47c59c1123efc refs/heads/imx_4.9.51_imx8_beta2
+40ea53973b99b7df07f472318918a8c2b310e4a7 refs/heads/libdrm-imx-2.4.102
+a7316e7d67b7708f40ffe469858dae07f14fe21a refs/heads/libdrm-imx-2.4.107
+063bd699054866852ae182d2b31d4d3e7eae4f03 refs/heads/libdrm-imx-2.4.109
+3660ea0fee6f2f131eca73cd4c30d20021a84284 refs/heads/libdrm-imx-2.4.114
+0f889a1f9640f6210132dd565141eb19005245fb refs/heads/libdrm-imx-2.4.115
+2f1797674f94572ae8c365c8cbffb0263337ed57 refs/heads/libdrm-imx-2.4.116
+b72eaf93f30bc6734e72a3d3ab662a4633468c69 refs/heads/libdrm-imx-2.4.123
+644c9043ebb5ffbaf80ef14d5411fb7d9484077f refs/heads/libdrm-imx-2.4.84
+95645843f59495387a072d48374718f22e69d7a4 refs/heads/libdrm-imx-2.4.91
+cd1754eb0a0b0953ef42c0405900a4ac277dc6ac refs/heads/libdrm-imx-2.4.97
+f421c9c8c4b8fe48d9e6ef43910e98569c94a4b2 refs/heads/libdrm-imx-2.4.99
+3a7d0951d83c2aaf1f5ce48267c6094dfd107402 refs/tags/2.4.15
+^a107e5b12960f64722bff424502a4fc0ad33dc8f
+2cb9f47990521aa278ae4385253f5b0b5f6a686d refs/tags/2.4.16
+^db50f5127421ac8f4e3ce4eb7c27d27475781488
+5c843b1731cfadbb623ce2171fa1dff1429c3282 refs/tags/2.4.17
+^fdb33d56de3edf27f24c6db0e6beaed823f7bc38
+4813b19e23b8466184ac0fc1ce26fbb2abdc9045 refs/tags/2.4.18
+^2d9990c7e8020d28fec4f581493696087def904f
+f9624bfa5ee2d5746c53619291a9fa371a0ad9a0 refs/tags/2.4.19
+^b5495527f4c7087d430c0d1c2b83357c40b9c16c
+e82e094ead75fc620b9c0be3a20647f3b5cf9127 refs/tags/2.4.20
+^c7650003c52ee29b7fa5ebf20dd134079f0b8488
+002b430a007cadd4346e448398a04703b14085d7 refs/tags/2.4.21
+^65ec8d7699267cc59777d531f545a82a14341480
+9729600faffbc7798378ac3050b4e2278e3f7f78 refs/tags/2.4.22
+^624e58e3e43c0b2c6803cb9263863444abeb3acb
+2136b00bac31eba2899953c540d90c757ad8d95f refs/tags/2.4.23
+^760c01a6af12c013bca0ad1f17c793ca813be4cc
+50b10ab17b6ab67600b4e2477e8ffde1f151405f refs/tags/2.4.24
+^a926a043b8079a8e283aa231e3c2347f5ad5864f
+9e53aaee7c00ec8c5c17a62316d6b5a5cb2c7cd1 refs/tags/2.4.25
+^ba11501bb9f5bd98110dfe1385b4501c0a9a643a
+1e20f9574c3e176ae92cd4666934795403c417b0 refs/tags/2.4.26
+^6dd804c5a92104042b8be0a67d107946394a0b7a
+3f6b5846855a112713eef2da1d5368fd0e28d0e5 refs/tags/2.4.27
+^cc9b751e82c5a3525907bba30ba3c95246751824
+c0681e3e75a66e1bfe79c8006c52d0f9e554a235 refs/tags/2.4.28
+^e73161a02b604742e3da3bca8f13cff81276de43
+d6848dae41e6d91c0731ca88a22033ae4e2d9a9d refs/tags/2.4.29
+^7fd1678110b78d9324723a54dfd5049496b9e3cf
+1b04d4797b52518c9511c07b03e83e6002db8808 refs/tags/2.4.30
+^adf1428915bfd0ee24758a3cbd56ce9b64f6eefb
+bda17816a0bd7146f33d2c0c0dc7264abd29d898 refs/tags/2.4.31
+^230ec7d7bbf1e8a7e263d471b21afb08c28eba0c
+441c34998b8dd4390515fdca0ea0712662c7d02a refs/tags/2.4.32
+^51c3e7d7335ecdf572968db7d3eed661e8a61810
+730bfcdee0180ee6efc352f521b0a2dccb2e31ea refs/tags/2.4.33
+^a3c34f56b94d4d47cadcd9814c2684c11f800e7d
+f3d4dbd659b9e73245994aef77ced4039b5a116a refs/tags/2.4.34
+^86451a12ca52e88a9600ed55f56b8cacd1ac0d6d
+83be2168cd3dcdc81ac5d05a7e178148021f7c82 refs/tags/2.4.35
+^93a5117d5b05b7b4cd1cb481a10b8565c63fb5ba
+cfc16294e62d31ba8ba2bcb65327a97dcc7de3cd refs/tags/2.4.36
+^a7805194b7b91de01b671beeb724584dca69ad68
+8265a36503cd7b44736e6cb8e014fbefd604070d refs/tags/2.4.37
+^1b1a4f0a779f7ab2ba5673b9c9fe2a37047fe765
+5d4679affef79c577514ca2838d3dbf8cdaf008d refs/tags/2.4.38
+^d1de6831b9f49b1f450324948b6a4759b3f7ae04
+fcae547831bc5f0a212f23c4284d0c91f8527a77 refs/tags/2.4.39
+^ae3ac8225fe1c6781ce425c57ef5fb6c5af6ccf4
+8eed04de7bc7006f5fb55dba0e32738533813506 refs/tags/2.4.40
+^e01d68f9f3acfc35fe164283904b5d058c2ab378
+aa0384619580099e65fb108e347b6da47e84a84e refs/tags/2.4.44
+^9768af201e9aba2093c80a8da3632fe9e4c044fe
+9eb5ed86059dd8cf32be60e6010a3bdf12ca6347 refs/tags/2.4.45
+^63aeae123848d0bfbc0a35102cb9717cf496eab6
+05053030504eb15a93dcf909f79595cb69af1ef1 refs/tags/2.4.46
+^c6d73cfeeaff9596c735d0a10b248f94b2e1e347
+7b803b12e5bd2a548149362d5a7350297e725dcc refs/tags/2.4.47
+^951ebe0081bd2e15bc7685f07fa3318fa5bccfad
+35a8d1f595d0160b8d01555d4e8a8d3cc2729c30 refs/tags/2.4.48
+^71beb7b07950d9088d754cf7baf0421f5f264e48
+214e8e99005e98edc028e41588f4df3d60ea3a9e refs/tags/2.4.49
+^7ddc98f92f92560e2b52287ae8cf816ca4a057de
+c52af91b5cb6a3c895a59ea31a52f1b146c5f0f6 refs/tags/2.4.50
+^4c5de721c4ef96ef412fd6af4cb415f04a7515f6
+49eaa197a2afba5467a0e8d18a259dc17be346d2 refs/tags/2.4.51
+^dc864c8dea5c925d165ded7af551a15803d59423
+119c55e3d4e872147cc16fafdd71c32ab27194cb refs/tags/2.4.52
+^46d451c9a9514df9de01df647a3f397c5b5d7d1a
+dd370f9242c3776b876e05013e6d11cd6f3085fd refs/tags/2.4.53
+^504d606275edbc86b045492f1757c3cd82c298c4
+d195e3f92f272bf1d4e09025bd045ff245e56420 refs/tags/2.4.56
+^d6861609b2b887612d652bb2be7c39f199802937
+8f2d262fa9f1041976aeb0197b21ad7bcf9d7eb8 refs/tags/2.4.57
+^a6cddb34105d6d0e488e847028c57db0335e8e85
+5bf97ea960271236620981ff0ffef8aff009b870 refs/tags/2.4.58
+^7068d987f4dc1260a948f2b4782c66d3d80e9978
+67dfda3875fa8606ce4d38904668da7b2df7110d refs/tags/2.4.59
+^d2e0f552467ca11162fe04dfed55de4590280f23
+d7ff6f3d386535b142d54ea55d9d55d8ba3b2b44 refs/tags/2.4.60
+^5f7b6723e1bed755c230817eea0563bab5b2a8a7
+418c657b7a0b05bfd2b1f0f6eea183410baf66b8 refs/tags/2.4.61
+^b2360626c4aa1dccdf3fe258b833121748d64d35
+1259d2eec0537ca303c7dca900cec2f374a2afe3 refs/tags/2.4.62
+^ba4b5ac010ab85406ec52e3906e13d58cd9aa782
+4bab64072e49274976e86a47654cdff87b83ce1e refs/tags/2.4.63
+^f045da45fee94a7179cced09a20b691c5167cef4
+47b9f3fb979af0944a3dbe828bd83c45447c9aa3 refs/tags/2.4.64
+^ab2fadabde3829b1ec56bd4756165dd9bd281488
+266c5f6ffae126a8a368f647e65a60f674023415 refs/tags/2.4.65
+^c3496167637e35cf8a52d5e7e53a412e79d80db0
+4ee4f940c9ac87a59bb0c3e01ea2e52cdff10179 refs/tags/2.4.67
+^d49efb55846c6ec96400061213b76ab867461c1a
+9893d47d48515d4e79110bbd85799eca672c2ba2 refs/tags/2.4.68
+^fc09c5ab84240e9b6bd0bed01685ef004f56c4fa
+03deefe1973dc5b9a4d2a6742c04ef8653b01877 refs/tags/2.4.69
+^5d830819480b089f62637fecc3aad11c5d1d5857
+968821156cc54ca11469756c89b50023fc83338f refs/tags/2.4.70
+^0caa84cb046156b9b2ca248d32af9548b04316e1
+77ee73f8cd92aa136488e23424282afba9977160 refs/tags/FreeBSD-20030424
+881a9b214d033a1e153f61996645bdaa37eb87d8 refs/tags/GEODE-BASE-DRIVER
+decf9e2297d87d646a4259f5d70290f105a487cd refs/tags/XFree86-4_3_99_12-merge
+a8ab34ed47c1880b1206812c9b1b8312cd7a3357 refs/tags/X_3_9_16
+1c33c6909546e3b51f36c04bba12cc2275149902 refs/tags/X_3_9_17
+7a9b291ab55dd9dcfeb35217f6105ad57c94f433 refs/tags/X_3_9_18
+d9ff0e3884abd19cdf99426d4d4b1e8f17b4ffd1 refs/tags/X_3_9_18-20000222-merge
+adc03d3661117a687b5e1686f11b4b1314922203 refs/tags/X_4_0
+5bd8014f276d447178a1193d9dea1b976647d6ce refs/tags/X_4_0-20000315-merge
+8bc39d01cae622db6097b967c132f9b0e04fb785 refs/tags/X_4_0_1
+0cbca9cca2a9680bcced7d2ffe47599a37c7fea9 refs/tags/X_4_0_1b
+cba4d3504c843f6f66ffc0b477f86b4ee0048065 refs/tags/X_4_0_1b-20000816-merge
+5745cb7fa70cf312d371aac44de3beae2a8d6e47 refs/tags/X_4_0_1d
+94071289a4c61a1083a3d6b3546b06cafeaeac44 refs/tags/X_4_0_1d-20001107-merge
+b1aa228f7d7390f8b9a361f862d724b908d5a71f refs/tags/X_4_0_1d-pre
+5745cb7fa70cf312d371aac44de3beae2a8d6e47 refs/tags/X_4_0_1e
+94071289a4c61a1083a3d6b3546b06cafeaeac44 refs/tags/X_4_0_1e-20001107-merge
+33fd00485f350f7ecceb1fabfa81ce4137c894c2 refs/tags/X_4_0_1f
+960f13cdf4cc4201fabe4c48e40395d3a755be58 refs/tags/X_4_0_1f-20001130-merge
+14a73775360585b9a09bfdf932881fbb06b34037 refs/tags/X_4_0_1g
+960f13cdf4cc4201fabe4c48e40395d3a755be58 refs/tags/X_4_0_1g-20001130-merge
+14a73775360585b9a09bfdf932881fbb06b34037 refs/tags/X_4_0_1h
+e15a24e154d6749ba0be3155ed802005c5e1ebf0 refs/tags/X_4_0_1h-20001205-merge
+e15a24e154d6749ba0be3155ed802005c5e1ebf0 refs/tags/X_4_0_1h-20001207-merge
+cf50598369e7ed45730f913811ab9eaf6c751ad7 refs/tags/X_4_0_2
+b19c44e4fe01db3efe72e6a130bbd49af151ee95 refs/tags/X_4_0_2-20001221-merge
+0e5b8d77cfe0f86698041aebe31c54f59c877825 refs/tags/X_4_0_99_1
+b42ff4f6600b97e9b7482152d5ea8713e800dc00 refs/tags/X_4_0_99_1-20010319-preimport
+301a1ad315bd7881adcf0df33c589e0a74c059f4 refs/tags/X_4_0_99_1-20010321-merge
+1759c16ab9b64598968a0058039e8a66bf5f9773 refs/tags/X_4_0_99_2
+0e7f6c0726e5ff08eeab8e17a5aa63fbe44b3410 refs/tags/X_4_0_99_2-20010409-preimport
+18fc5ee92394b31c00df8e72b1f29bada79292f5 refs/tags/X_4_0_99_2-20010410-merge
+a576d41498b742502d4f7dbfeed44737ff79db8f refs/tags/X_4_0_99_3
+b804c09d0699131a8333c19a4d58cb14125d413e refs/tags/X_4_0_99_3-20010501-preimport
+2ea12226a675cc8d4b95799129f143fa61d97296 refs/tags/X_4_0_99_3-20010502-merge
+334e134918ee2ece3e845cd55c49c9709b67ee6c refs/tags/X_4_1_0
+dca245e37c875660fa766a264377628dd3a311e5 refs/tags/X_4_1_0-20010614-preimport
+d87c873df05eb3a110316c7af2358553fa7f988e refs/tags/X_4_1_0-20010615-merge
+2f060f44e0eb617059bf9301e62a0d2c202ddee1 refs/tags/X_4_1_99_1
+c6bf9bae8ec49987c66dadd5f9313cc13eb5832e refs/tags/X_4_1_99_1-20010822-merge
+f4c2f1400203434d9a5392b990aaa4fa32dce9c5 refs/tags/X_4_1_99_1-20010822-preimport
+14945ada16218e9f918c24e0d702979fae9b07f6 refs/tags/X_4_2_0
+f18a6d836b5e0081dff9217b44e88e74c421c576 refs/tags/X_4_2_0-20020123-preimport
+f18a6d836b5e0081dff9217b44e88e74c421c576 refs/tags/X_4_2_0-20020127-preimport
+44aa4d6297874022a4f5a49ea24f2d052584d3dc refs/tags/X_4_2_0-20020128-merge
+ff4baa69da278b7f616063f37fbd27febf3eb211 refs/tags/X_4_2_99_2
+b3a20ce219b353aa3e2b7f3b47ffd28b279557c7 refs/tags/X_4_2_99_2-20021023-merge
+0bd0dd2300e91707ae5a41a83eb37217fd8ad295 refs/tags/X_4_3_0-20020324-preimport
+c14006ba9f0522875327998215150067d8ca6ea7 refs/tags/X_4_3_0-20030324-merge
+3e16b2c4f9ae25b6b617c7b90690f396f93dfda1 refs/tags/X_4_3_99_12
+ba99e16d596439fcf3ea436e065ecc719190643d refs/tags/android-10.0.0_1.0.0
+^f421c9c8c4b8fe48d9e6ef43910e98569c94a4b2
+5f80857cd1dbc1fa1bf89ae66581e857ea159f85 refs/tags/android-10.0.0_2.0.0
+^f421c9c8c4b8fe48d9e6ef43910e98569c94a4b2
+e10df35d05aec438af7560c8fae14ce2a0f780d7 refs/tags/android-10.0.0_2.1.0
+^f421c9c8c4b8fe48d9e6ef43910e98569c94a4b2
+bfb730de42c16921d1d3799ad31ab597bd80c83c refs/tags/android-10.0.0_2.3.0
+^f421c9c8c4b8fe48d9e6ef43910e98569c94a4b2
+316488474d1d82305aa8895fdefc2716192bf005 refs/tags/android-10.0.0_2.5.0
+^030536524705ce49a38ada32a13f7d8582e120af
+e78f1f3631a442f6441cbc2c5cf5f23b0200dec6 refs/tags/android-10.0.0_2.6.0
+^f525ae649cd6e81e5d4e459799b0f7a120c4e174
+9084f99171e491880dda1b4f3be4a17590287eb8 refs/tags/android-11.0.0_1.0.0
+^c6aa2d0f17884455473a2a8b710e82cc2a6fe4b9
+786a0b534c1507d451dcb0837a2168973d6b30b8 refs/tags/android-11.0.0_1.2.0
+^40ea53973b99b7df07f472318918a8c2b310e4a7
+97f14ec7e926b231b98a08b08362fa51ec03e7bd refs/tags/android-11.0.0_1.2.1
+^40ea53973b99b7df07f472318918a8c2b310e4a7
+25e6546287204fb11017896fe6803b42237fd9a2 refs/tags/android-11.0.0_2.0.0
+^40ea53973b99b7df07f472318918a8c2b310e4a7
+3dbaa3ee66c8e4410b698607302ce10da8e48b42 refs/tags/android-11.0.0_2.2.0
+^40ea53973b99b7df07f472318918a8c2b310e4a7
+aa1bfba5f43c26ecd33dc2ed869d5b16e9d75d97 refs/tags/android-11.0.0_2.2.0-imx8ulp-er
+^770ceff1664177a7b44882e4bb15408d7b79853d
+55cca871f2701ae02f7903044cdf2cf38b1fac42 refs/tags/android-11.0.0_2.4.0
+^a7316e7d67b7708f40ffe469858dae07f14fe21a
+ac7873a6587da76a1525f1226c40745ba8c9b11a refs/tags/android-11.0.0_2.6.0
+^a7316e7d67b7708f40ffe469858dae07f14fe21a
+62ae912044e10e8eecbd2b7ea3955317767f3e3b refs/tags/android-12.0.0_1.0.0
+^a7316e7d67b7708f40ffe469858dae07f14fe21a
+c3ac32345555777fccd28d7cf01d4096726db9aa refs/tags/android-12.0.0_2.0.0
+^93c9a82bdf31ea055d45cb54ce57cd42e22c90ae
+0b83d2fa4210d49d24cef32726546dcd0843c467 refs/tags/android-12.1.0_1.0.0
+^93c9a82bdf31ea055d45cb54ce57cd42e22c90ae
+e2ce94f4d285c839d6bd13ae0e6a049fb94fad8f refs/tags/android-13.0.0_1.0.0
+^063bd699054866852ae182d2b31d4d3e7eae4f03
+a4bfc7e6fdf81cd9388ec85c0a6fdf5ed933b8ab refs/tags/android-13.0.0_1.2.0
+^063bd699054866852ae182d2b31d4d3e7eae4f03
+d3e30f3218953bb37c8ae90d9d938730625e804a refs/tags/android-13.0.0_2.0.0
+^3660ea0fee6f2f131eca73cd4c30d20021a84284
+bcabf8f1b62fa8e14b68c9987933fcf6ed6caa95 refs/tags/android-13.0.0_2.2.0
+^0f889a1f9640f6210132dd565141eb19005245fb
+e94b9f1f9fa0b827dc3552ca3ac652fd03d28374 refs/tags/android-14.0.0_1.0.0
+^0f889a1f9640f6210132dd565141eb19005245fb
+69e61faf3d78cdaac6649a574f4561779b0640aa refs/tags/android-14.0.0_1.2.0
+^0f889a1f9640f6210132dd565141eb19005245fb
+baa2fb9db448eca6b00972a236893f97417c8b30 refs/tags/android-14.0.0_2.0.0
+^2f1797674f94572ae8c365c8cbffb0263337ed57
+1c0af032181f46fbe456f05da63e0e27aece3c71 refs/tags/android-14.0.0_2.0.0-imx95-er
+^2f1797674f94572ae8c365c8cbffb0263337ed57
+4f71d10b4bbca1891fa864385a34eb9c3d7b9b2d refs/tags/android-14.0.0_2.2.0
+^2f1797674f94572ae8c365c8cbffb0263337ed57
+6b85f3bf75b1f604698c5c0c6aca9fe806222ad1 refs/tags/android-15.0.0_1.0.0
+^2f1797674f94572ae8c365c8cbffb0263337ed57
+39e177757d0441ce496998f5e96d37f20f380798 refs/tags/android-15.0.0_1.2.0
+^2f1797674f94572ae8c365c8cbffb0263337ed57
+e3d4d05f72a3ab774cd092059b9f81419fd925d0 refs/tags/android-15.0.0_2.0.0
+^c7c4953161a0f8f2cc7bee70284bf3263c9cfcf5
+ebbe5d3430775b69f8c5de882ac6ec9498e5c944 refs/tags/android-16.0.0_1.0.0
+^fb9b92bc6d4bde6ef2b59a96e5256780cc7634c2
+c32678720cbd04f059aa7da6c0d12e64ffda83a7 refs/tags/ati-4-0-0-20000319
+5bd8014f276d447178a1193d9dea1b976647d6ce refs/tags/ati-4-0-1-20000319-base
+963dfed38835d8a75cfbed5d4f30769339134bde refs/tags/ati-4-0-1-20000518
+99efe3c247f726909f0a9a43e59835ebfc2d121f refs/tags/ati-4-0-1-20000518-merge
+e0ec09d9087b8c9ad95f3600207ebc90f816bcf1 refs/tags/ati-4-0-1-alpha
+7e3ef8a5e2dcbd0ef0dc4be15b1c902f9fdc8332 refs/tags/ati-4-0-1-beta
+49e00c7aa09f7b998ef868dd2440cbe035da2d7d refs/tags/ati-4-1-0-20000613
+d5348efe258d5399dd161bb488d22c981177bf78 refs/tags/ati-4-1-0-20000613-merge
+83253109dc9400daece9111d9a832587ce3690ed refs/tags/ati-4-1-1-20000919-stable
+4ca420eac5b8df93dbe5be1207bbc8592977b10f refs/tags/ati-4-1-1-20001009-freeze
+edfdc14215508f768dddfb210c1822bea427d672 refs/tags/ati-4-1-1-20001125-freeze
+7950295132b834df9a1cb01a94868c372b91a39f refs/tags/ati-4-1-1-20001201-freeze
+7950295132b834df9a1cb01a94868c372b91a39f refs/tags/ati-4-1-1-20001202-merge
+e15a24e154d6749ba0be3155ed802005c5e1ebf0 refs/tags/ati-4-1-1-20001202-merge-trunk
+71897876f193282dd49d3eb37f277377a3ec8bb2 refs/tags/ati-5-0-0-20000104-freeze
+7c7885903a6fa3f561f3fe7ece28ac5b7aed8e7c refs/tags/ati-5-0-0-20001223-freeze
+3b89d5aaa53ddec0047d57631a12e236f9e7dec1 refs/tags/ati-5-0-0-20001223-merge
+0885a6be6dbe2d0e840aa32fba5ded2b038ec23a refs/tags/ati-5-0-0-20010105
+0994e635b2f002c8e9f177037a46c26ccd98c59d refs/tags/ati-5-0-0-20010105-merge
+01a14789edce0ce1cae0f3fd4328833399fae56d refs/tags/ati-5-0-1-20010220-head
+8a09edf4298df98724f373351ba0d55ee6d8a704 refs/tags/ati-pcigart-0-0-1-branch-02282001-freeze
+84eb47efbeaa07dd7526383b10234389a003d90b refs/tags/ati-pcigart-1-0-0-20010405
+2673fcbaaef60aa9f1258a24f3b678d3b1861c73 refs/tags/ati-pcigart-1-0-0-20010405-freeze
+5d6ddbca26d695561fb1d08d798a0cc254b805e7 refs/tags/ati-pcigart-1-0-0-20010405-merge
+b988d576410872b27b4db4b446ab96dd08476c3e refs/tags/automotive-10.0.0_1.1.0
+^f421c9c8c4b8fe48d9e6ef43910e98569c94a4b2
+0c73223f6db124da6d6123f00acde70990b3d836 refs/tags/automotive-10.0.0_2.2.0
+^f421c9c8c4b8fe48d9e6ef43910e98569c94a4b2
+0c73223f6db124da6d6123f00acde70990b3d836 refs/tags/automotive-10.0.0_2.4.0
+^f421c9c8c4b8fe48d9e6ef43910e98569c94a4b2
+89cd34d257e2f3dd809f849189f6cc0e42de25c0 refs/tags/automotive-11.0.0_1.1.0
+^8a1fb4a0da90fcb930fede91e225867b53e97869
+500e3e40fc60abeaf086cbe4f6ab68bc992dbe6e refs/tags/automotive-11.0.0_2.1.0
+^40ea53973b99b7df07f472318918a8c2b310e4a7
+7142df4bc017475ce42faad420c4e8989cff70ef refs/tags/automotive-11.0.0_2.3.0
+^a7316e7d67b7708f40ffe469858dae07f14fe21a
+6944e1e57a16e4ba92552641bd7634f66c6c7aa9 refs/tags/automotive-11.0.0_2.5.0
+^a7316e7d67b7708f40ffe469858dae07f14fe21a
+04d0fabbae84be275078fcbc2fe77c0e9e28bef2 refs/tags/automotive-12.0.0_1.1.0
+^a7316e7d67b7708f40ffe469858dae07f14fe21a
+36edf6c24f543fe8736e5361ec238946f97134b0 refs/tags/automotive-12.0.0_2.1.0
+^93c9a82bdf31ea055d45cb54ce57cd42e22c90ae
+6da194d014f4d295bc80e30208f94ca77f31e792 refs/tags/automotive-12.1.0_1.1.0
+^93c9a82bdf31ea055d45cb54ce57cd42e22c90ae
+67ca1af93eb1f7134e21dfcd52cbdf9e66188399 refs/tags/automotive-13.0.0_1.1.0
+^063bd699054866852ae182d2b31d4d3e7eae4f03
+74406e16bfe38cfee9a763cfb46a3d8b998846ae refs/tags/automotive-13.0.0_1.3.0
+^063bd699054866852ae182d2b31d4d3e7eae4f03
+b00de8a5e691a1d1169b179d5f7cdb2f27d059b4 refs/tags/automotive-13.0.0_2.1.0
+^be3c373d26ad6e05706e7a634140666ad8896a41
+83b369d9825470508f0f4dc50ff3bd9e4b2b9a5c refs/tags/automotive-13.0.0_2.3.0
+^0f889a1f9640f6210132dd565141eb19005245fb
+c68ea79535f028c2adfcccf8bebc0196304be562 refs/tags/automotive-14.0.0_1.1.0
+^0f889a1f9640f6210132dd565141eb19005245fb
+389167acd761256d42e880f646787371114802b5 refs/tags/automotive-14.0.0_2.1.0
+^2f1797674f94572ae8c365c8cbffb0263337ed57
+a0ee3d27c654f8150e0f7910b2145d820feb2da7 refs/tags/automotive-14.0.0_2.1.0-imx95-er
+^2f1797674f94572ae8c365c8cbffb0263337ed57
+3bb59b6f741cb4e5af88f7c33f98ed1b4317487a refs/tags/automotive-14.0.0_2.3.0
+^2f1797674f94572ae8c365c8cbffb0263337ed57
+9761ccca285667298ed46e4e035ab43d1ea109d8 refs/tags/automotive-15.0.0_1.1.0
+^2f1797674f94572ae8c365c8cbffb0263337ed57
+25eb8a3bdf06eeed8dcc4a2dec80cefe2ea45eed refs/tags/automotive-15.0.0_1.3.0
+^2f1797674f94572ae8c365c8cbffb0263337ed57
+17a351d7cebe7adb970bd021512d183323d67ffb refs/tags/automotive-15.0.0_1.3.0-imx95-er
+^2f1797674f94572ae8c365c8cbffb0263337ed57
+360d9333d09143560c1f125f43146dc80dc296f4 refs/tags/automotive-15.0.0_2.1.0
+^c7c4953161a0f8f2cc7bee70284bf3263c9cfcf5
+b60d66e282733c92ba72289b26211524e8bc6281 refs/tags/bsd-1-0-0-20000530-freeze
+fb744b47fad9a7384ced000cb272aeba480bc962 refs/tags/bsd-1-0-0-20000530-merge
+fa0a35a25fd008617ef6c7444cb92b138dd01859 refs/tags/bsd-1-0-0-20000531-merge
+46f2275dab156b302192865bb618107ef4e9a286 refs/tags/bsd-1-0-1-20000612-freeze
+c2795393281e915c53b347eba0a427d4d375a1ac refs/tags/bsd-1-0-1-20000613
+d399dbcd569a66f5bf4863ffa2aab95fa8ebd5fc refs/tags/bsd-1-0-1-20000613-merge
+9a0d90c74eefcb13e4cfc77a4c7b8b737397e988 refs/tags/bsd-3-0-0-20020705
+74ef13fd009b9e37956e4207d0a5ed92f4b5e39a refs/tags/bsd-3-0-0-20020705-merge
+9a0d90c74eefcb13e4cfc77a4c7b8b737397e988 refs/tags/bsd-3-0-0-freeze
+734270fb379417d5c13550423556999ee93b4b4f refs/tags/bsd-4-0-0-20030220
+ae0ee9a2f7f84196a616026a5974c8196dc7ab97 refs/tags/bsd-4-0-0-20030220-freeze
+cfa778af9c70faea8c13e5cb7f80029eee0d074e refs/tags/bsd-4-0-0-20030221-merge
+c0efa1a777baf90561a31957014d760f89146e4f refs/tags/config-0-0-1-20031005-freeze
+0371c290a12f75d36c9c1e7c947bf98fe210908b refs/tags/dispatch-0-0-1-20000128
+9fcbf05c442d0b45d0fa7d7aca28e1f3c67de65a refs/tags/dispatch-0-0-1-20000129-merge
+9fcbf05c442d0b45d0fa7d7aca28e1f3c67de65a refs/tags/dispatch-0-0-2-20000212
+9fcbf05c442d0b45d0fa7d7aca28e1f3c67de65a refs/tags/dispatch-0-0-3-20000225
+d9ff0e3884abd19cdf99426d4d4b1e8f17b4ffd1 refs/tags/dispatch-0-0-3-20000225-merge
+05fb3e93f2f99a1ace1444c8f0669067f553504b refs/tags/dmx-0-1-20011115
+05fb3e93f2f99a1ace1444c8f0669067f553504b refs/tags/dmx-0-1-20011128-snapshot
+05fb3e93f2f99a1ace1444c8f0669067f553504b refs/tags/dmx-0-1-20020112
+05fb3e93f2f99a1ace1444c8f0669067f553504b refs/tags/dmx-0-1-20020228-alpha
+05fb3e93f2f99a1ace1444c8f0669067f553504b refs/tags/dmx-0-1-20020419-beta
+05fb3e93f2f99a1ace1444c8f0669067f553504b refs/tags/dmx-0-1-20020531-final
+5676a2a6105afdfc343e7f36f3c87e528a9d14b3 refs/tags/dmx-1-0-20020603-base
+5676a2a6105afdfc343e7f36f3c87e528a9d14b3 refs/tags/dmx-1-0-20020604-phase1
+5676a2a6105afdfc343e7f36f3c87e528a9d14b3 refs/tags/dmx-1-0-20020719-alpha
+5676a2a6105afdfc343e7f36f3c87e528a9d14b3 refs/tags/dmx-1-0-20020830-beta
+5676a2a6105afdfc343e7f36f3c87e528a9d14b3 refs/tags/dmx-1-0-20020926-final
+5676a2a6105afdfc343e7f36f3c87e528a9d14b3 refs/tags/dmx-1-0-20021025-alpha
+5676a2a6105afdfc343e7f36f3c87e528a9d14b3 refs/tags/dmx-1-0-20021115-beta
+5676a2a6105afdfc343e7f36f3c87e528a9d14b3 refs/tags/dmx-1-0-20021129-final
+6bb28dade35ef35f5e677bb1d2c2107dc588750e refs/tags/driinterface-0-0-3-20040303
+f47ed991432672b7353e73b9d3194f255b957bee refs/tags/driinterface-0-0-3-20040303-merge
+f47ed991432672b7353e73b9d3194f255b957bee refs/tags/driinterface-0-0-3-20040303-premerge
+0ea9c0a43e98f398060ba55f143ce428fff215b6 refs/tags/drm-2.2.0
+^7b6cd95bb6c41653aed78952da0a461bd4791413
+1ad90d0a7bdc0ba9624b3ea62e8010f1bf8dbf4f refs/tags/drm-2.3.0
+^d51e1bb56ca2f7858cdeac6f61a7b747c1e15b1e
+c21a7b763ad31c3473ba2c9a1a01bb729bc13bb5 refs/tags/drm-before-handle-change
+f4e6e4499c1b7a26de2bbf36568f75315faec212 refs/tags/drm-before-sman-merge
+79db46ccef7abf8d18bcf84bd72bda4aca842b86 refs/tags/drm-filp-1-20020328
+1728bc637df023cce7b5abfeab2796ea481ca7e9 refs/tags/drm-filp-1-20020328-merge
+7c9631e5928850e4dc85644fb6a5511f94540ad8 refs/tags/drm-filp-1-freeze
+dde85024f2d2dc7505ae9b033b11bc3233e18e1f refs/tags/drm-ttm-20060621
+0b68227d3dcf5e5019f091c5cd93f16b9197014f refs/tags/drm-ttm_20060330
+dde85024f2d2dc7505ae9b033b11bc3233e18e1f refs/tags/drm-ttm_20060608
+07e1126bde7c4a9e9737894748822f98e914922f refs/tags/drm_20060201
+78de7fd3d8d1b194d699f0aaa19069bd7fa5f301 refs/tags/drmcommand-0-0-1-20020409
+78de7fd3d8d1b194d699f0aaa19069bd7fa5f301 refs/tags/drmcommand-0-0-1-20020409-freeze
+3903e5ac94c07cf31f0bc24eff5011ef8cc7afba refs/tags/drmcommand-0-0-1-20020409-merge
+15026ddc3cbb831343a53fc33f4d4cbeea3e4f98 refs/tags/drmfntbl-0-0-1-170804
+05c724faee6dbff27a6a573adc77bd22015444b4 refs/tags/drmfntbl-0-0-1-170804-freeze
+12f4cdb5b7b8fa5a1099614d6085ae08896b0ea1 refs/tags/drmfntbl-0-0-1-20040817
+5c9ed8309493acb099463d25b32fabb5b7c004af refs/tags/drmfntbl-0-0-1-20040817-merge
+6978e5afbd8197fe0d9269bfe4177ea80f682fd9 refs/tags/drmfntbl-0-0-2-20040824-freeze
+d4dbf457813e97531ded3bf24f3b6ad421189c69 refs/tags/drmfntbl-0-0-2-20040824-merge
+d9ff0e3884abd19cdf99426d4d4b1e8f17b4ffd1 refs/tags/freeze-20000226
+74e19a40187ac3b5907922e5dc01418135a5794b refs/tags/full-1-0-0-20010315-head
+e2b2bffc6b25361b2f09afc5a28030645440cd03 refs/tags/full-1-0-0-branch
+d15a2761499f449265c38e8f552de691fe50c6c0 refs/tags/glxmisc-1-0-0-20000420
+01836824d5b3dd4833573ebf3f98ed4cfb9cd5b3 refs/tags/glxmisc-1-0-0-20000420-merge
+01836824d5b3dd4833573ebf3f98ed4cfb9cd5b3 refs/tags/glxmisc-2-0-0-20000503
+01836824d5b3dd4833573ebf3f98ed4cfb9cd5b3 refs/tags/glxmisc-2-0-0-20000503-merge
+127fd6583ff6ca60879bd79bc67dc379eedb6c8b refs/tags/glxmisc-3-0-0-20000606-freeze
+8bbccd2c72f3c1f36cb6eba4ae58aa7d1fbe3991 refs/tags/glxmisc-3-0-0-20000607
+569da5a42ebf10c86d6c6ba81866a888e1c708dc refs/tags/glxmisc-3-0-0-20000608-merge
+484f610fb1abe449968e796a652b5834b6b95bee refs/tags/i810-20000201-beta1
+99f656d561292a2c522df81bceaa77ff902890a7 refs/tags/i810-20000214-beta2
+811aa473b823cd1c1b0a4ad34538a2b23631290d refs/tags/i810-last-ring
+912cc8a197c4bc665ac32cce7cd4b7c4aec7fee6 refs/tags/i865-agp-0-1-20030707
+7f056c0f9b1975d6e1ff51b16bfc94ae121646e8 refs/tags/i865-agp-0-1-20030728
+a9c56532346b9e8f5372bfd3ee6bbc775ab1c47b refs/tags/i865-agp-0-1-20030905
+f38fcc12bc3eb25b694c503e15f8011abbc0cd85 refs/tags/i865-agp-0-1-20030929
+9ce163c9e54b959bcb84b332d20ca40779f2a7e8 refs/tags/lf-5.10.35-2.0.0
+^40ea53973b99b7df07f472318918a8c2b310e4a7
+4495292572bf6b707e84d37db78922c8a606e07a refs/tags/lf-5.10.52-2.1.0
+^a7316e7d67b7708f40ffe469858dae07f14fe21a
+fc169a4b85dce32a2f3edf14978a2bb74688caa0 refs/tags/lf-5.10.72-2.2.0
+^a7316e7d67b7708f40ffe469858dae07f14fe21a
+874c8e391d1afeccc9dc6063e25246561da43fcd refs/tags/lf-5.10.72-2.2.2
+^a7316e7d67b7708f40ffe469858dae07f14fe21a
+eb338693b86eff0a66eb9116c3f2a2453ba7c4d9 refs/tags/lf-5.10.72-2.2.3
+^a7316e7d67b7708f40ffe469858dae07f14fe21a
+40ea53973b99b7df07f472318918a8c2b310e4a7 refs/tags/lf-5.10.y-1.0.0
+7088be69e5b09a6e68f71c124d597508dbf4814a refs/tags/lf-5.15.32-2.0.0
+^93c9a82bdf31ea055d45cb54ce57cd42e22c90ae
+49b08f6fff0548c13e887c54b80273b0087a26b9 refs/tags/lf-5.15.5-1.0.0
+^a7316e7d67b7708f40ffe469858dae07f14fe21a
+80ffedaf69710be27cdb9ae52d817eed32654c1d refs/tags/lf-5.15.52-2.1.0
+^93c9a82bdf31ea055d45cb54ce57cd42e22c90ae
+cab7aaa57b575d3ac9f4a942522e48369b7d3088 refs/tags/lf-5.15.71-2.2.0
+^063bd699054866852ae182d2b31d4d3e7eae4f03
+6d453a645627fa86060647c0c2526c7adff2b510 refs/tags/lf-5.15.71-2.2.1
+^063bd699054866852ae182d2b31d4d3e7eae4f03
+d6e0d2437606a6ec760214bb5e377d1690442815 refs/tags/lf-5.15.71-2.2.2
+^063bd699054866852ae182d2b31d4d3e7eae4f03
+f421c9c8c4b8fe48d9e6ef43910e98569c94a4b2 refs/tags/lf-5.4.y-1.0.0
+d11e314347f834a1a59c9e09a09cf7442c358e16 refs/tags/lf-6.1.1-1.0.0
+^68531f3f411d65f71e4616f51e3ab841a7bac0aa
+074a97da17866d1a9bbacf4b65a9ae70253fff07 refs/tags/lf-6.1.22-2.0.0
+^3660ea0fee6f2f131eca73cd4c30d20021a84284
+c35da8a9f09d71e5dd7f381ed365a39a56546560 refs/tags/lf-6.1.36-2.1.0
+^0f889a1f9640f6210132dd565141eb19005245fb
+0c5650007152b87bbb4c812fce919cd21e5b634b refs/tags/lf-6.1.55-2.2.0
+^0f889a1f9640f6210132dd565141eb19005245fb
+669177db28379c10d771224e09536e1e4e67cb8d refs/tags/lf-6.1.55-2.2.1
+^0f889a1f9640f6210132dd565141eb19005245fb
+62626650a3573992e38f7a5d5d9d02a8f8b1c790 refs/tags/lf-6.1.55-2.2.2
+^0f889a1f9640f6210132dd565141eb19005245fb
+81c8526ee59f8c6cf7edc5b3f16fedfd2f8f8e61 refs/tags/lf-6.12.20-2.0.0
+^c7c4953161a0f8f2cc7bee70284bf3263c9cfcf5
+73b42590a50a08d292e595cff7d174b6e3d01065 refs/tags/lf-6.12.3-1.0.0
+^c7c4953161a0f8f2cc7bee70284bf3263c9cfcf5
+87ec07cb880c9792298ced68c40c91f56a19cab7 refs/tags/lf-6.12.34-2.1.0
+^fb9b92bc6d4bde6ef2b59a96e5256780cc7634c2
+0e8851bc2a7a0a902b83b224bd0132bc0d7ce28f refs/tags/lf-6.12.49-2.2.0
+^b72eaf93f30bc6734e72a3d3ab662a4633468c69
+f68e62166c35057b57252f7821b9f9a6de223284 refs/tags/lf-6.6.23-2.0.0
+^2f1797674f94572ae8c365c8cbffb0263337ed57
+5a36d47d62b742c7b6c152affabd73665470f9b8 refs/tags/lf-6.6.3-1.0.0
+^2f1797674f94572ae8c365c8cbffb0263337ed57
+e07bfdf9df90ed6fc2b25cbbdf78d6b950073215 refs/tags/lf-6.6.36-2.1.0
+^2f1797674f94572ae8c365c8cbffb0263337ed57
+fd677636dc852d1e68c2b3c86d35be78d231fb03 refs/tags/lf-6.6.52-2.2.0
+^2f1797674f94572ae8c365c8cbffb0263337ed57
+e38970c0ea228b8535f5f080cc4e701580900a6f refs/tags/lf-6.6.52-2.2.1
+^2f1797674f94572ae8c365c8cbffb0263337ed57
+5a5478de7ab4ee2eef0308d8b4ce5c53222cd55e refs/tags/libdrm-1_0_0
+40515fc93c479599f32485630b4063422106358f refs/tags/libdrm-1_0_1
+1abd165f5bd627a6eebf333135d5a1b5a32d7aa3 refs/tags/libdrm-1_0_2
+017174085f162484277b2f798d35d3436a26e005 refs/tags/libdrm-1_0_3
+419fc9930b5145e61c5b77c6e8f76c40af62fbc4 refs/tags/libdrm-1_0_4
+10ec05793f9b0ca47ce0a07aa445f8799d2ceba1 refs/tags/libdrm-1_0_5
+fd8d5f7b9a172b520c36132bf59ee73eff5a92c8 refs/tags/libdrm-2.3.1
+^409d6818eba8a2e2938e0f9281c9318928ba5a35
+0fc362c9fc3da458987ed724ae4e9b1628a23e22 refs/tags/libdrm-2.4.0
+^458e2d5bc5f949d00cfcc9a3f9ce89f0c9f5628c
+a2c7e9ca76a32e36e1faeded0b40ffd3214434bf refs/tags/libdrm-2.4.1
+^00847dabe0fa5ccf796658f486e8f6f7a77e043b
+a89d14b343afbb448d00424b0ac4e953bdc642c2 refs/tags/libdrm-2.4.100
+^0190f49a139e7069d7cad6a6890832831da1aa8b
+4be360e7de1685bf72b01d40ed09e0ec7e498267 refs/tags/libdrm-2.4.101
+^27fa47a738b15464528a1c44d8cb0b2ab31d3cf7
+d0919697e5c7144b8f78777bed389db6ce5124b6 refs/tags/libdrm-2.4.102
+^bb70ab82fd599b0a0db3d22354f05ae87fbc4515
+f6e36026ea70e40e767cad98ea2f32e6d01a2089 refs/tags/libdrm-2.4.103
+^5dea8f56ee620e9a3ace34a99ebf0175efb57b11
+a95cbdb59f86df897812e4db014a0ab42ea79b22 refs/tags/libdrm-2.4.104
+^a55042e2c677e907da87e523a31682f15a86a30b
+1540cc2f6c8f8c55173ddd774793c9b8003699b6 refs/tags/libdrm-2.4.105
+^6b4e956d299c6ff09a4abf89642ccc1beb455c88
+14539657d06791022708d483d1d8a34ab6ff8778 refs/tags/libdrm-2.4.106
+^77b642b6dea5daac884fac470d0215fac2caf8fc
+73baca48b4d75ee5042f65e22499448cdae45cb3 refs/tags/libdrm-2.4.107
+^9cef5dee3cd817728c83aeb3c2010c1954e4c402
+0af7552a2de047f85902fe4ebfda7712500aa543 refs/tags/libdrm-2.4.108
+^d76c387125c7ad336f39121b9c3148361731bdad
+fd0f5b08ea4a0dc16f4e9b8d255352be24d1951a refs/tags/libdrm-2.4.109
+^febfe0addd51a48c7c9dd7fd9ddf9b5a3b5cd7c6
+440a5e826578c7a954793e53e92ca2d6a617ee37 refs/tags/libdrm-2.4.11
+^f57d7f4b0b14972f92a83f155ae8033478aa7729
+1fdddd23f41075e5805dfde14bf80531da5ad0ee refs/tags/libdrm-2.4.12
+^eea95ed8af24300e5a5d2489dfe0d73c24300651
+c706ca1a3a718b9f93c55b8c5828dfbf53ae9c3c refs/tags/libdrm-2.4.13
+^73b59c894380995a2889b98e79acadd2da0bb237
+35ea51a8fff55b9818a2d5ae5e4e202f0d8fb1cb refs/tags/libdrm-2.4.14
+^ac71f0849928f4b2fbb69c01304ac6f9df8916a1
+e51033660d70596f258c098214ebd66ce332c9fe refs/tags/libdrm-2.4.3
+^dfd7fdafd8a2bad0d63ced4a969b6278c221c000
+f4f5a77b91e30d86afaf0a0561f0192ddddddcf1 refs/tags/libdrm-2.4.35
+^93a5117d5b05b7b4cd1cb481a10b8565c63fb5ba
+9ac7de19b2253ab91a97def9fd693aa0122f5861 refs/tags/libdrm-2.4.36
+^a7805194b7b91de01b671beeb724584dca69ad68
+163037e7cceef0a32e3ec409896e5cd5e8d5abfd refs/tags/libdrm-2.4.37
+^1b1a4f0a779f7ab2ba5673b9c9fe2a37047fe765
+de441e7a81007daa2e506a059c9ed766de1aff7b refs/tags/libdrm-2.4.38
+^d1de6831b9f49b1f450324948b6a4759b3f7ae04
+feec36417ce978dc9f22c54e1bb58803714b9acf refs/tags/libdrm-2.4.39
+^ae3ac8225fe1c6781ce425c57ef5fb6c5af6ccf4
+086c2beeeb2be788e74876be98311eee3923cc2a refs/tags/libdrm-2.4.4
+^18d3cc076b53f2032eed1f9a4b21947f4cb9e4e7
+7d2de23a63e4741339321b70443c23185d7ea769 refs/tags/libdrm-2.4.40
+^e01d68f9f3acfc35fe164283904b5d058c2ab378
+c74c0f5ee933670ab89aa4a13fd4b0bcd21dc42c refs/tags/libdrm-2.4.41
+^007bff7a034741dcf9d1716583f91fc4453d4112
+b7f5f1f600c03a0d026c8660f2faf0969274dbf2 refs/tags/libdrm-2.4.42
+^183b5f20b59c83f57967b41d1e3a90c073e8df76
+b704552f233ce3bf90f334e47282551d6167b174 refs/tags/libdrm-2.4.43
+^c005f043dcb4df5ed8a36b9f4b70fcf9e92d52a5
+c9fb3cd179d3e1e7aaa960eceb043f385f28eab1 refs/tags/libdrm-2.4.45
+^63aeae123848d0bfbc0a35102cb9717cf496eab6
+8e77b3857f190220946c482cfae49f5dd2ce03cc refs/tags/libdrm-2.4.46
+^c6d73cfeeaff9596c735d0a10b248f94b2e1e347
+25f7cece422940e9b4529c76c8c92ce41028c398 refs/tags/libdrm-2.4.47
+^951ebe0081bd2e15bc7685f07fa3318fa5bccfad
+1d56aa284fdec5ec97b0ee27719f519444ed2625 refs/tags/libdrm-2.4.48
+^71beb7b07950d9088d754cf7baf0421f5f264e48
+42ece7df90f6e50e4fcc707bb69deb5d84f3e6c0 refs/tags/libdrm-2.4.49
+^7ddc98f92f92560e2b52287ae8cf816ca4a057de
+0b8dbbfce8b7edbf2a7700089ee0b9ae4a6bc820 refs/tags/libdrm-2.4.5
+^a773ce1db8801fcbbdb55b54172c9cd48b92e2d7
+84efb2f65f9c5ca0661b53474e42d791d1363d23 refs/tags/libdrm-2.4.50
+^4c5de721c4ef96ef412fd6af4cb415f04a7515f6
+d84cc937b4d1ad760af7e9d9edda8274b053ef4b refs/tags/libdrm-2.4.51
+^dc864c8dea5c925d165ded7af551a15803d59423
+b41ad564095c218f0d8ba6d9874bc8f2bed5def3 refs/tags/libdrm-2.4.52
+^46d451c9a9514df9de01df647a3f397c5b5d7d1a
+ef4e7a326b870d63324c8b4bcf956e6126cffb1e refs/tags/libdrm-2.4.53
+^504d606275edbc86b045492f1757c3cd82c298c4
+6b2d3ecec3100867dd269d4e238f1c1cf56dfcb0 refs/tags/libdrm-2.4.54
+^5126fcb2b475ea155fc2b6fbf012dbd18df74307
+20f2cb6b6b7c21539032e3fb5d8ad955f2336cbc refs/tags/libdrm-2.4.55
+^6f15ca80815ae34d412c9fbdf526d69c45561a0f
+ac3119d5c4e84834d456c956a353a0062e5203a3 refs/tags/libdrm-2.4.56
+^d6861609b2b887612d652bb2be7c39f199802937
+1a3bb83ee454b6329a5d7f93220288cdd237189b refs/tags/libdrm-2.4.57
+^a6cddb34105d6d0e488e847028c57db0335e8e85
+6c0e1b6860eb8d8230366770814ba2420513b5e1 refs/tags/libdrm-2.4.58
+^7068d987f4dc1260a948f2b4782c66d3d80e9978
+2fdbdc92bd59792b5962269fae9cc79195df307e refs/tags/libdrm-2.4.59
+^d2e0f552467ca11162fe04dfed55de4590280f23
+495789a4a923edc898d5ae6d0f06928c77833584 refs/tags/libdrm-2.4.6
+^751db3fe27d5e51925c28ceecadb828784d46028
+f4f356e95c43de580605cb7885ee2cd5fed68527 refs/tags/libdrm-2.4.60
+^5f7b6723e1bed755c230817eea0563bab5b2a8a7
+17a7d28d0181a1f27f89456fc0d8006c0ce0ee13 refs/tags/libdrm-2.4.61
+^b2360626c4aa1dccdf3fe258b833121748d64d35
+43d9b045637d48207d723a6ee108c4288f5a1ccd refs/tags/libdrm-2.4.62
+^ba4b5ac010ab85406ec52e3906e13d58cd9aa782
+cbe594c9e6ae5b0a37f50a709f441885ad99e479 refs/tags/libdrm-2.4.63
+^f045da45fee94a7179cced09a20b691c5167cef4
+0f00cafd241f670dfabc8dbbb488a48850d2b4d5 refs/tags/libdrm-2.4.64
+^ab2fadabde3829b1ec56bd4756165dd9bd281488
+764526305274dc727dedfb3433952269ab1c617a refs/tags/libdrm-2.4.65
+^c3496167637e35cf8a52d5e7e53a412e79d80db0
+880528ad22e3b7ca9cb162dddf2245a86652f169 refs/tags/libdrm-2.4.66
+^b38a4b2326c1be5702f5cb73a53c0ed74c12d510
+6f138466112952cbdfb1dabddb1d2e8857d42ae5 refs/tags/libdrm-2.4.67
+^d49efb55846c6ec96400061213b76ab867461c1a
+c4ad3d78d857f62d812d5ca4006cf29d1d99beeb refs/tags/libdrm-2.4.68
+^fc09c5ab84240e9b6bd0bed01685ef004f56c4fa
+9191a57820429d383c419f3a738456bdb83cbf0e refs/tags/libdrm-2.4.69
+^5d830819480b089f62637fecc3aad11c5d1d5857
+4ebcc8103c4db2c5d8aeb21e3effc5410b15a408 refs/tags/libdrm-2.4.7
+^fef29358bb407f35b90e8c6ee913e4979786cfd5
+4b5e65e40b8b27cae70ca54b1edcf9a56813fffb refs/tags/libdrm-2.4.70
+^0caa84cb046156b9b2ca248d32af9548b04316e1
+8fa2396d778f398f78778089e89498a589fdbc06 refs/tags/libdrm-2.4.71
+^a44c9c31b7b38b3eedf3d26648f9e68dcc377c4c
+6be5604f69d49c19b93baf4d235273303cd2c396 refs/tags/libdrm-2.4.72
+^8cf431271a8ad33c35859da2fb0387e6bccecd44
+0d8475a6a60e2b9c2ab33c69c3b466896eddcd6c refs/tags/libdrm-2.4.73
+^317bdff14ac8f1e8735f97d96c7eb963e1e47a4a
+8c385fd09fc00a141c621b1486aff64486741021 refs/tags/libdrm-2.4.74
+^dae413e43866d36500538c2801cc66a5a89e426d
+c1cb9d94bcbcbe4c1ba1db06eef890632f25449a refs/tags/libdrm-2.4.75
+^d4b8344363b4e0f0e831e5722b6df5cc0bb08df8
+a0b984220a81a33766baef00c60c7875b0966bc0 refs/tags/libdrm-2.4.76
+^8d61a9a923c1ced974180609611ef615034fd484
+9bff9a8f611c03f7d8e8a8ebdcb213a2d3053bec refs/tags/libdrm-2.4.77
+^e61e999838faa65f1c5cbddfbda06125be19e353
+0762059e2c09ea96da2708696c629941eeb97c22 refs/tags/libdrm-2.4.78
+^1142f9b30fd5c3b2ca93069bee757418ba497895
+57dffb6d8f505ab2dcfa95264143b64bbd26369c refs/tags/libdrm-2.4.79
+^c9c77c37175be1a8f30e34d30f32a9f3f3df0dce
+f9bceee65a8bf58029e38b85ee6a963da469b7a7 refs/tags/libdrm-2.4.8
+^4d5e82e7d3cf9f94c1c74bd5067e3ea1fb9d0981
+7bcfb682bdacc138d5ce4b2b8f384bd659d1b842 refs/tags/libdrm-2.4.80
+^f02719c5246d301a50d7e0356bf3fe61b1e945a1
+911806a51425451a66983a9c047da11f5635cf0f refs/tags/libdrm-2.4.81
+^81312f3730c14a2930a7784493701809c7f04a26
+549ce55c8c0786aae93d3a1c8f0233594a94c8a6 refs/tags/libdrm-2.4.82
+^23e234a3503f51b9d9c585123d33b936f522808d
+78e0a33ca97b3fffbf3f4050bbad9a469fa47464 refs/tags/libdrm-2.4.83
+^f19dbb79fe54994ecd505ac67ad15d19f591933a
+f5240e19845a7758d24cb5db2463ff6c080468c0 refs/tags/libdrm-2.4.84
+^290d29d9794813a2fe0578dbb905ad09bc810516
+285081f78ac0e106f07b0ac3a26d0a517a5e749a refs/tags/libdrm-2.4.85
+^e580be90e88eeed95faa5452e343f3ec509517e5
+a0388ff9f2b6b5a87d14d58b714f9d0407b6cf96 refs/tags/libdrm-2.4.86
+^a4b487cd80f7394f3c285d5883a24a07e156f867
+f2cfdcae069eed3978a2aa7ac289f2795746b39a refs/tags/libdrm-2.4.87
+^b617f059ad45517bded1f2d8c8e3a52b60e80bd7
+5e9f326283daa83a4e3396866681b5d8e954251b refs/tags/libdrm-2.4.88
+^2fe4c07b38ded7f4b9341512da6e670d3321012b
+27b7d2d998e8ca3b5dffeb00a60c1a09a92c388d refs/tags/libdrm-2.4.89
+^831036a6f62005da9fb4a75fe043bd96ce672d27
+592c98823694176f240859526c6056028d1475ce refs/tags/libdrm-2.4.9
+^07646002c6835537c6ae44ef9b3f8480762279b8
+2ee7d47a2d800388dcf00dbda517ddf960868704 refs/tags/libdrm-2.4.90
+^36c816fbee30fd4f31ea5233fe97126deaacd625
+a5d87b1793ce00b4f7d335921a373620895de534 refs/tags/libdrm-2.4.91
+^85ae22af0f209e73c954d8867d9189ab2cfeb3e1
+b29dffe750de981e562bb605e5674589f23cfda6 refs/tags/libdrm-2.4.92
+^cb592ac8166e348bf61afa3f7b7f626ccaf55a0f
+e643b21b384dfef683a5de42af96b440c941ca6a refs/tags/libdrm-2.4.93
+^87fdbfb62fb3de6759d465d07cc13f922084694e
+fa8bbd47943c98cf70994c555afbd467010d85dd refs/tags/libdrm-2.4.94
+^8389c5454804d5cd7f62f1cadb841fb1b8a51817
+51cf41852d3ccea8c1f4b6aaa833d6267e841d1d refs/tags/libdrm-2.4.95
+^4f1c76539692253247fd2022111873601e50b1d9
+19e2cb05fa31aa40f2407b594f7cc7ff0e2148ba refs/tags/libdrm-2.4.96
+^5a3bdc7add2f30f7673052376514c91dbcd1b64a
+16e6f891b1dfc7bb42c855ab0612885947da2529 refs/tags/libdrm-2.4.97
+^b7a7a90336fbb19efb3f91f92b5d964b0dfb7ec2
+415f6dadad7220740722fdac34d8342450f6a27d refs/tags/libdrm-2.4.98
+^be3b07617fc999e366e8185dbc7851ae5943df27
+33db83fd1a4b79a918e7ca4297c0484bd263a825 refs/tags/libdrm-2.4.99
+^b2103fa3257daa6acfdc6f4d4d8565abebaec4a8
+5f4f03d8c9fda330e1357a20461b07129e0d249a refs/tags/libdrm-2_0_0
+985738f203f06aa630feaf4ef15b794ea50d3ee9 refs/tags/libdrm-2_0_1
+56b073385213d187535fbbd24adaf9ebeb7c752f refs/tags/libdrm-2_0_2
+ae0b8f750ae4ee190f7567fee5aca95d92e7895e refs/tags/mach64-0-0-6-20030329-freeze
+89eb66d97db0af9f4444deb4b683e02a97223f67 refs/tags/mach64-0-0-6-20030330
+27f9c5f01659bb643db00ffb17c140ae3bd99df8 refs/tags/mach64-last-merge
+dd626209d30fa999d4da8f13a0d5b7de57e34f01 refs/tags/mesa-3-5-20010323-freeze
+20a0360fddc811aeb6aad59279a2b2f2d2eb0fd3 refs/tags/mesa-3-5-20010621-freeze
+5d20d2c1d4461a617cabf14a5110de1f1c8023a4 refs/tags/mesa-4-0-20020211-freeze
+bf01c96677fba8e7b0c8d1281b87d59256be7525 refs/tags/mesa-4-0-20020213
+bf01c96677fba8e7b0c8d1281b87d59256be7525 refs/tags/mesa-4-0-20020214
+ab87c5d0d1b5c35006ce8b99a9260e3116c732dc refs/tags/mesa-4-0-20020214-merge
+c4c614eaac083572a8123b720f1d6e87272797bf refs/tags/mesa-4-0-4-20021214
+07f64af93a69669b1b862d2b3284e75239717865 refs/tags/mesa-4-0-4-20021215
+07f64af93a69669b1b862d2b3284e75239717865 refs/tags/mesa-4-0-4-20021216
+07f64af93a69669b1b862d2b3284e75239717865 refs/tags/mesa-4-0-4-20021220
+07f64af93a69669b1b862d2b3284e75239717865 refs/tags/mesa-4-0-4-20030114
+9b9b099471580616e1685bae725f2c297179ae99 refs/tags/mesa-4-0-4-20030129
+f3751850c8b5b4216c460474147e0dcfc26a144e refs/tags/mesa-4-0-4-20030203
+939c60b80a579c9b3eeb9f23fbb269cb19229623 refs/tags/mesa-4-0-4-20030208
+939c60b80a579c9b3eeb9f23fbb269cb19229623 refs/tags/mesa-4-0-4-20030216
+939c60b80a579c9b3eeb9f23fbb269cb19229623 refs/tags/mesa-4-0-4-20030222
+c222e2ed6c4d9a85756ff64121f7687501c271e0 refs/tags/mga-0-0-1-20000225-merge
+ba1b1ae3806490cce16a9c8957b52cd74967f463 refs/tags/mga-0-0-2-20000404-merge
+e9efc1097c2489fc732e04a23534e132780e6e51 refs/tags/mga-1-0-0-20010215-freeze
+f2f5bf6f5f577d5cc43af99dbad16710225bfa2f refs/tags/mga-1-0-0-20010215-merge
+d5031ec3b7986943d0c7b17dc2e03aa0a97348e0 refs/tags/multihead-1-0-0-20010727-freeze
+b34f558ebc30ca46d0e1ff015f88f2f1b92b345e refs/tags/multihead-1-0-0-20010730
+56bd9c207770d41a497f3e8237a1099dd9d4cd91 refs/tags/multihead-1-0-0-20010730-merge
+6e56c39371a551af1e05e53231162e0fc42c6ce0 refs/tags/newmesa-0-0-1-20031209
+64006ef86b329183599b06da7705bb0b294a1c1a refs/tags/newmesa-0-0-1-20031209-merge
+c70adff9b5b8ffd98217c51e0c9b9bb424c9ae16 refs/tags/o8.1.0_1.2.0_8qxp-beta2
+87ae561fa7d4eadcc8eab9367c36d09c660dd9de refs/tags/o8.1.0_1.3.1_8mq-ear
+^c70adff9b5b8ffd98217c51e0c9b9bb424c9ae16
+8e4509529f3cbc8e0e86dbaf4f14188dbd084e94 refs/tags/o8.1.0_1.4.0_7ulp-ga
+^73f5ed43136d6a2a6e7445a8d7bd22e6fd6f3c64
+d43fbdff75978a7aeea28749810f122b56e42313 refs/tags/o8.1.0_1.5.0_8mm-alpha
+^c70adff9b5b8ffd98217c51e0c9b9bb424c9ae16
+abbd73aa038f3441055215d4fb59825c848190dd refs/tags/o8.1.0_1.5.1_8mm-beta
+^644c9043ebb5ffbaf80ef14d5411fb7d9484077f
+a2c10fb40e8093ddec1b9322f52cbb3508a5afc3 refs/tags/o8.1.0_2.0.0-auto-beta
+^95645843f59495387a072d48374718f22e69d7a4
+a2c10fb40e8093ddec1b9322f52cbb3508a5afc3 refs/tags/o8.1.0_2.0.0-beta
+^95645843f59495387a072d48374718f22e69d7a4
+ada65ba92b6ebdd1358e01aa5763698e650c0aa1 refs/tags/o8.1.0_2.0.0-ga
+^95645843f59495387a072d48374718f22e69d7a4
+fad593f55f1efa611bec78e9a23db7c75939b41d refs/tags/o8.1.0_2.0.1-ga
+^95645843f59495387a072d48374718f22e69d7a4
+ec362366252e41e9d18d7e84ea1156cab5054056 refs/tags/o8.1.0_2.1.0-auto-ga
+^95645843f59495387a072d48374718f22e69d7a4
+86e00e884caa68a1d90a28929516f3cb0caad86b refs/tags/o8.1.0_2.1.1-auto-ga
+^95645843f59495387a072d48374718f22e69d7a4
+8431524f7db333f6748d6d1e489b665c0d01f9f7 refs/tags/p9.0.0_1.0.0-beta
+^8edffe330dcd695c535bdcbd491f161754cc3326
+b442e0867fa6da51aa0aa68e78ce2536784cbb86 refs/tags/p9.0.0_1.0.0-ga
+^95645843f59495387a072d48374718f22e69d7a4
+c8c506bb5caa8a984cd603b84277d6ff869ef558 refs/tags/p9.0.0_1.0.2-auto-alpha
+^8edffe330dcd695c535bdcbd491f161754cc3326
+b442e0867fa6da51aa0aa68e78ce2536784cbb86 refs/tags/p9.0.0_1.0.2-auto-beta
+^95645843f59495387a072d48374718f22e69d7a4
+b442e0867fa6da51aa0aa68e78ce2536784cbb86 refs/tags/p9.0.0_1.0.4-ga
+^95645843f59495387a072d48374718f22e69d7a4
+589af55f4d9098f53a0889c9784e89d45f218c6d refs/tags/p9.0.0_1.1.0-ga
+^95645843f59495387a072d48374718f22e69d7a4
+c0314dec51781573543fbd7556e6112bc2613e7a refs/tags/p9.0.0_2.0.0-ga
+^95645843f59495387a072d48374718f22e69d7a4
+d6923bc4919242d8d42c47e55c2de0efd9ab74b2 refs/tags/p9.0.0_2.0.1-ga
+^95645843f59495387a072d48374718f22e69d7a4
+d6edcb38088ba9eaed2b795aee8e995dabfbdbc3 refs/tags/p9.0.0_2.1.0-auto-ga
+^95645843f59495387a072d48374718f22e69d7a4
+0f080c8ea9589ee6582c7d31f55ef7c7a53f3633 refs/tags/p9.0.0_2.1.1-auto-ga
+^95645843f59495387a072d48374718f22e69d7a4
+0d10734dd685bc672ed03d2df4aeb6fa3a00ef65 refs/tags/p9.0.0_2.2.0-ga
+^95645843f59495387a072d48374718f22e69d7a4
+f18b784db907b9ac56de23f0ff33176a2d8922ac refs/tags/p9.0.0_2.3.0
+^95645843f59495387a072d48374718f22e69d7a4
+b81739fc5ae536be988a1a65a04267efb6696d97 refs/tags/p9.0.0_2.3.1
+^95645843f59495387a072d48374718f22e69d7a4
+197616aab1d8647d1cd0d7da1ef082a96abbf54c refs/tags/p9.0.0_2.3.2
+^95645843f59495387a072d48374718f22e69d7a4
+197616aab1d8647d1cd0d7da1ef082a96abbf54c refs/tags/p9.0.0_2.3.3-auto
+^95645843f59495387a072d48374718f22e69d7a4
+7a70a697772329a2c453f9870e7f166882744332 refs/tags/p9.0.0_2.3.4
+^95645843f59495387a072d48374718f22e69d7a4
+7a70a697772329a2c453f9870e7f166882744332 refs/tags/p9.0.0_2.3.5-auto
+^95645843f59495387a072d48374718f22e69d7a4
+40e7e8de2f60f4af6014bb828dc9f55994adcf8f refs/tags/ppc-1-0-0-2000-09-01-freeze
+934a4f32cf0755cfd14c3d6b311cba997c58604f refs/tags/ppc-1-0-0-20000912
+d399dbcd569a66f5bf4863ffa2aab95fa8ebd5fc refs/tags/pre401-20000613-freeze
+deb296f395bb16ef7cf4bfe48f6e6c2cbacea0bc refs/tags/r200-0-1-20020714-freeze
+eef49a73b541d69be5da9b289deff36f5bb96ab0 refs/tags/r200-0-1-20020715
+c3d2e90cc79c1b942e184c2dfb708965b38bb344 refs/tags/r200-0-1-20020822
+48cc350e21acd2b4b03c76937e2861af5271435a refs/tags/r200-0-1-20020822-merge
+a61589717f056786e2f25e9cdb7027b259538418 refs/tags/r200-0-1-20020826-freeze
+06591c420df84d9d5143b691d36b11ee5d1c9f62 refs/tags/r200-stable-1-0-20021028
+3df7bd6ce2bf07ddd09090193b4ced83ab79c127 refs/tags/radeon-1-0-0-20001017
+e8e9cf8a66be11508c39f1cc31b8a5e7eb758875 refs/tags/rel_imx_4.14.62_1.0.0_beta
+49cca25f6319f3607b121093e46e474fe528aa39 refs/tags/rel_imx_4.14.78_1.0.0_ga
+95645843f59495387a072d48374718f22e69d7a4 refs/tags/rel_imx_4.14.98_2.0.0_ga
+95645843f59495387a072d48374718f22e69d7a4 refs/tags/rel_imx_4.14.98_2.1.0
+95645843f59495387a072d48374718f22e69d7a4 refs/tags/rel_imx_4.14.98_2.2.0
+95645843f59495387a072d48374718f22e69d7a4 refs/tags/rel_imx_4.14.98_2.3.0
+95645843f59495387a072d48374718f22e69d7a4 refs/tags/rel_imx_4.14.98_2.3.1_patch
+95645843f59495387a072d48374718f22e69d7a4 refs/tags/rel_imx_4.14.98_2.3.3_patch
+cd1754eb0a0b0953ef42c0405900a4ac277dc6ac refs/tags/rel_imx_4.19.35_1.0.0
+5748c8ff40f1ae87487c01e580f145a43542cbda refs/tags/rel_imx_4.19.35_1.1.0
+644c9043ebb5ffbaf80ef14d5411fb7d9484077f refs/tags/rel_imx_4.9.123_2.3.0_8mm_ga
+5ea2086676129226753e186ad2521ff360444416 refs/tags/rel_imx_4.9.51_8mq_beta
+8c8c46d41839035de605291bc1c26902011a74ac refs/tags/rel_imx_4.9.51_8mq_ga
+174eceda365df0b4587828e548f47c59c1123efc refs/tags/rel_imx_4.9.51_8qm_beta2
+5ea2086676129226753e186ad2521ff360444416 refs/tags/rel_imx_4.9.51_8qxp_alpha
+174eceda365df0b4587828e548f47c59c1123efc refs/tags/rel_imx_4.9.51_8qxp_beta
+afcebc08d60f45328c93d3f65604a16064f5e24a refs/tags/rel_imx_4.9.88_2.0.0_ga
+c70adff9b5b8ffd98217c51e0c9b9bb424c9ae16 refs/tags/rel_imx_4.9.88_2.1.0_8mm_alpha
+c70adff9b5b8ffd98217c51e0c9b9bb424c9ae16 refs/tags/rel_imx_4.9.88_2.2.0_8qxp_beta2
+f421c9c8c4b8fe48d9e6ef43910e98569c94a4b2 refs/tags/rel_imx_5.4.24_2.1.0
+f421c9c8c4b8fe48d9e6ef43910e98569c94a4b2 refs/tags/rel_imx_5.4.3_2.0.0
+f421c9c8c4b8fe48d9e6ef43910e98569c94a4b2 refs/tags/rel_imx_5.4.47_2.2.0
+f525ae649cd6e81e5d4e459799b0f7a120c4e174 refs/tags/rel_imx_5.4.70_2.3.0
+ab397e5254a059b1d66a3e340c4af166bb7c3ac5 refs/tags/rel_imx_5.4.70_2.3.2
+^40ea53973b99b7df07f472318918a8c2b310e4a7
+95645843f59495387a072d48374718f22e69d7a4 refs/tags/rel_virt_4.14.98_4.11_0.10_ga
+5d66ea4fb42214c09449bb4a45c359440757ae5c refs/tags/sarea-1-0-0-20010307
+7e820fc7d89d06a11f448d7093469a0c765a84a6 refs/tags/sarea-1-0-0-20010307-freeze
+22a4ea4b5aee5a52fe542831d523c2a10aa00095 refs/tags/sarea-1-0-0-20010314
+74e19a40187ac3b5907922e5dc01418135a5794b refs/tags/sarea-1-0-0-20010314-merge
+03e95cf27a727d656a912be4504df31fdcdc970c refs/tags/savage-1_0_0-20031002-trunk-premerge
+84dfe702e27e0ef22801f8fe366120bea90adf4f refs/tags/savage-2-0-0-fork
+9243a76e0384f66c6c6799917affffbd9ca38ec6 refs/tags/smt-0-0-1-20000112-base
+9243a76e0384f66c6c6799917affffbd9ca38ec6 refs/tags/smt-0-0-1-20000222-freeze
+9243a76e0384f66c6c6799917affffbd9ca38ec6 refs/tags/smt-0-0-1-stage2c
+b04e5d204da9f29bf12ad05040cac879fbe26525 refs/tags/tcl-0-0-20020612
+a01b578b3bee421740ab4654a1f464a188284306 refs/tags/tcl-0-0-20020612-freeze
+2dcada361db7db00bf0796e399b4188578e3efbe refs/tags/tcl-0-0-20020612-merge
+01836824d5b3dd4833573ebf3f98ed4cfb9cd5b3 refs/tags/tdfx-2-0-20000222-freeze
+01836824d5b3dd4833573ebf3f98ed4cfb9cd5b3 refs/tags/tdfx-2-0-20000222-merge
+fc6568f03bfbb49a7447010061d8daf68563571a refs/tags/tdfx-2-0-20000608-freeze
+5d122e6a09d0b956cab6c351f282373140dfbfee refs/tags/tdfx-2-0-20000608-merge
+ea425f532fb9c5b8f4d942e45751b7f715464b34 refs/tags/tdfx-2-0-20000612-merge
+01836824d5b3dd4833573ebf3f98ed4cfb9cd5b3 refs/tags/tdfx-2-0-trunk
+3fdcc554e29fc62e2bc987e044607326324f768f refs/tags/tdfx-2-1-20000711
+dc2701a9f6034a04319f71e43e7f928f818be6db refs/tags/tdfx-2-1-20000711-freeze
+a2020a33349c91a0036b1fde8ae0d0229ae8e005 refs/tags/tdfx-2-1-20000905-freeze
+68380d1373cf7b01a6ae5c9440de7a52745af091 refs/tags/tdfx-2-1-20000906
+f1bb3c5f5ff40e89004064d8ac8e13a3798b9afb refs/tags/tdfx-2-1-20000907-merge
+98b5d4d26f4e97613afccfe8cb0bb05ad96bc960 refs/tags/tdfx-3-0-0-20001201
+e094165a3de1714060e3da7343354ae2c5c595ad refs/tags/tdfx-3-0-0-20001201-freeze
+98b5d4d26f4e97613afccfe8cb0bb05ad96bc960 refs/tags/tdfx-3-0-0-20010104-freeze
+be15c03e7a02f585908d9b851bec91ad74b76576 refs/tags/tdfx-3-0-0-20010108
+61c15f4a2d053c9e609360a5e600f56b0887c3aa refs/tags/tdfx-3-0-0-20010109-merge
+5f67507e65a38cf6d33290299937c6bad98fcc6e refs/tags/tdfx-3-0-1-branch
+13e8184e649ba7386f90fe19e534306482571e02 refs/tags/tdfx-3-1-0-20010301-freeze
+0033505c6d106be5c5a230cd2da5c8c260d1ba57 refs/tags/tdfx-3-1-0-20010305-freeze
+0033505c6d106be5c5a230cd2da5c8c260d1ba57 refs/tags/tdfx-3-1-0-20010305-freeze2
+91767f33a8ab458e84ac178e2ff322ceed7b75a3 refs/tags/tdfx-3-1-0-20010305-merge
+bd55d08867037d04391eefe9b5f347cd99a8d0f3 refs/tags/tdfx-3-1-0-20010306
+971c2f8ad582bd0d6b97ed503c9e5abaa9feee02 refs/tags/tdfx-3-1-0-20010306-freeze
+3a74d3a371acc7b8632885c15ce2f7c05aae94bd refs/tags/tdfx-3-1-0-20010306-merge
+15e6d94fa3a4c4525b1df3376ae3d803ccc6f708 refs/tags/texmem-0-0-1-20021127-mesa-4-1-merge
+a790687c9a4b369094a2a56e29a8240db573a54a refs/tags/texmem-0-0-1-20030123-trunk-premerge
+3163f74b8eddf97bc9a71f01dfa02d2d33091b62 refs/tags/texmem-0-0-1-20030125-trunk-merge
+3bf1f686a5d81a54c7e569a1fc1a5226b07898b6 refs/tags/texmem-0-0-1-20030204-trunk-merge
+2236fc781b306ebbf8afa10da0b92f40dfdc64b4 refs/tags/texmem-0-0-1-20030204-trunk-premerge
+f28be77dd4001df6068546b3ecdb4d70ee908e91 refs/tags/texmem-0-0-1-20030328-freeze
+035c08adca4c157970c5142da1a63cb06819df1b refs/tags/texmem-0-0-1-20030407
+285b1cdc39d9cc47e3ff74b9f9b56c24317beec5 refs/tags/texmem-0-0-1-20030429-merge
+7e1a4bfab3648a83cf2f8eed01c6ac346829aa3c refs/tags/texmem-0-0-1-20030429-premerge
+ab87c5d0d1b5c35006ce8b99a9260e3116c732dc refs/tags/trunk-20020221
+2ab6ff71900ad068f6d5b8ee42743e13c928cedf refs/tags/trunk-20020328
+2dcada361db7db00bf0796e399b4188578e3efbe refs/tags/trunk-20020617
+8aecdbea7660ae184827a0812fc4bbd953279c5b refs/tags/trunk-20020626
+cc45cc060963356edd832d1bbdf21da46e01c8fb refs/tags/trunk-20020703
+24025ca5f78c15ced14490532b4410730353d2c1 refs/tags/trunk-20020705
+381e0fe7f8ee5a9500fdb91d83ce45915b64db5f refs/tags/trunk-20021002
+5e9fad35880e89d428ba917d842d0e9ed9a1be6b refs/tags/trunk-20021022
+c869f4a1e59c4fa0bed5681cad5ad49e685603eb refs/tags/trunk-20021125
+6fc41e25e5acbbfae4d2e93a0d9e6f980f8ae477 refs/tags/trunk-20030912
+decf9e2297d87d646a4259f5d70290f105a487cd refs/tags/trunk-20030916
+64006ef86b329183599b06da7705bb0b294a1c1a refs/tags/trunk-20031209
+89d67d90873d1baff48fbd671d5b3a4cb354ada5 refs/tags/via-1-2-0-20040323-merge
+8aecdbea7660ae184827a0812fc4bbd953279c5b refs/tags/xv845g-0-1-bp
