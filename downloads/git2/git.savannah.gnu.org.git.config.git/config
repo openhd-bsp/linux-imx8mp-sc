@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = https://git.savannah.gnu.org/git/config.git
+	fetch = +refs/*:refs/*
+	mirror = true

@@ -1,0 +1,9 @@
+df0379c2b5ce362d3c39b44bcf5e370a370377b3		branch '2.3-evo' of https://github.com/OpenHD/OpenHD-WebUI
+216cd5e51710fcf845ab58304119ca03fbef1a00		branch 'codex/fix-build-errors-and-warnings' of https://github.com/OpenHD/OpenHD-WebUI
+7099119f0e9d05ff2244a091460487d1bf7c1d70		branch 'dev-release' of https://github.com/OpenHD/OpenHD-WebUI
+e31970d57f50f9b1ec402224ce8681a0b2f715e0		branch 'development' of https://github.com/OpenHD/OpenHD-WebUI
+7099119f0e9d05ff2244a091460487d1bf7c1d70		branch 'master' of https://github.com/OpenHD/OpenHD-WebUI
+68bbbd928d474a24665d037e6e7a39c6c80b58f6		tag '2.3.3' of https://github.com/OpenHD/OpenHD-WebUI
+c12e6285847c4aae2b6ed3507d4c9c878ad56f4c		tag '2.4.1' of https://github.com/OpenHD/OpenHD-WebUI
+a348228639a8492a93af89b3644773670b01e675		tag '2.4.2' of https://github.com/OpenHD/OpenHD-WebUI
+e82aecd7f828ffc0c8cf765c9565a8b8567f41f4		tag '2.6.0' of https://github.com/OpenHD/OpenHD-WebUI

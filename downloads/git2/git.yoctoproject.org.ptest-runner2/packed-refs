@@ -1,0 +1,20 @@
+# pack-refs with: peeled fully-peeled sorted 
+b72ec34bccad12a8035c4fbe91d58a6473a2b6cc refs/heads/master
+b06948fad78168c484690ce6e7cf2efcb1e68c54 refs/meta/cgit
+8bfdf946e784f4d5757bebee1fbc4b4a3d7a95c4 refs/tags/v0.1
+8bfdf946e784f4d5757bebee1fbc4b4a3d7a95c4 refs/tags/v2.0
+e2aa4256745377b784c8691f546041b59f6e046b refs/tags/v2.0.1
+6d2872116cd9d6e1617a768f9d72bbf091489b2d refs/tags/v2.0.2
+78afe246fb8cb864656c16dd5d1cfa5721ccc8b7 refs/tags/v2.1
+16413d71cc06b02a6d859c35a017cc49b88283f7 refs/tags/v2.1.1
+49956f65bb53ea2a2c1b394e5e59ffdfcdcc490f refs/tags/v2.2
+80712583732b4a809532f644fb09e7d2e812d7ba refs/tags/v2.3
+05b112bda7ac2adba8e9b0f088d6e5843b148a38 refs/tags/v2.3.1
+7015e9199ce748c0717addeebe7a8c47448bab03 refs/tags/v2.3.2
+1e9a84585909b970cc8850d3ea02a7215dcfa5a3 refs/tags/v2.4
+cce0edb4282ee081d043030bfdf29f3e4052f86c refs/tags/v2.4.1
+bcb82804daa8f725b6add259dcef2067e61a75aa refs/tags/v2.4.2
+92c1b97bfdb4a94acc1cabcaf97eef52dc29144c refs/tags/v2.4.3
+95f528cff0bc52903b98c292d4a322fcffa74471 refs/tags/v2.4.4
+aea9f42f87f2a78a973ae22cade8e45259f754e1 refs/tags/v2.4.5
+c99e8c2737ff802f110612cc2d90c60233c33255 refs/tags/v2.4.5.1

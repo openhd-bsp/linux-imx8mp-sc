@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = https://git.kernel.org/pub/scm/utils/dtc/dtc.git
+	fetch = +refs/*:refs/*
+	mirror = true

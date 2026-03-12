@@ -1,0 +1,17 @@
+# pack-refs with: peeled fully-peeled sorted 
+462e7771fa78f6e399e40a9029461d3917c2724f refs/heads/danny
+2bbbaaa00cc70887d6d6f745b9425890d522d240 refs/heads/denzil
+2700c5d1c214766f01e68bdfa25049fa1a5960bc refs/heads/dylan
+ef512be425d2309eb02e87f87fc258d1973c56fd refs/heads/dylan-test
+a4a362d9f4f0abc8ab145a8673166b9bd875731a refs/heads/master
+4b5de9011b31ff92ba2b6e052ab818b09affd905 refs/heads/master-next
+b7642a7c3f685850ffbb961313e6a593adb05370 refs/heads/master-test
+89821213a5df891254f40c9ddccdcfd780d25c3f refs/heads/master-test2
+83cab24662cb64e6db03e7111b4eb8932df5b6f8 refs/heads/morty
+a3362549a581da6e0e8e43f5c7f23ffd05130f70 refs/heads/new-config
+e3e5e2e42411c0f3c21c9d278267d99c6fd22a90 refs/heads/pyro
+9bb704df0a86578b8ae1f4c85e45089bef28e026 refs/heads/tools-ng
+52b06c4b040b7052b6b3fede17d14de8dea854a6 refs/meta/cgit
+a04138a02644eada0d012196e5ac3db4f516114d refs/tags/danny-release
+71ffb08c20022610363e68f9243350b7da020825 refs/tags/dylan-release
+90598a5fae1172e3f7782a1b02f7b7518efd32c8 refs/tags/v0.3
