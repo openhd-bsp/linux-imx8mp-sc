@@ -1,0 +1,33 @@
+From fc921db56ec06903e8fd758966e5f2a3f84e0e5c Mon Sep 17 00:00:00 2001
+From: Ji Luo <ji.luo@nxp.com>
+Date: Thu, 13 Jun 2024 10:50:15 +0900
+Subject: [PATCH] MATTER-2389-4 add se_version.h
+
+update the se_version.h to sync with lf-6.6.23-2.0.0-rc2.
+
+Change-Id: I80d75dc2e71e1a6af471f0c1c9a8cc5e9f1b13e3
+Signed-off-by: Ji Luo <ji.luo@nxp.com>
+---
+ include/hsm/internal/se_version.h | 10 ++++++++++
+ 1 file changed, 10 insertions(+)
+ create mode 100644 include/hsm/internal/se_version.h
+
+diff --git a/include/hsm/internal/se_version.h b/include/hsm/internal/se_version.h
+new file mode 100644
+index 0000000..f67f3d6
+--- /dev/null
++++ b/include/hsm/internal/se_version.h
+@@ -0,0 +1,10 @@
++#ifndef SE_VERSION_H
++#define SE_VERSION_H
++#define LIB_COMMIT_ID "7340cabd767cedd5980e3335968a577bb3909e6d"
++#define LIB_NEWNESS_VER 1
++#define LIB_MAJOR_VER 1
++#define LIB_MINOR_VER 1
++#define NVM_NEWNESS_VER 1
++#define NVM_MAJOR_VER 1
++#define NVM_MINOR_VER 1
++#endif
+-- 
+2.34.1
+
