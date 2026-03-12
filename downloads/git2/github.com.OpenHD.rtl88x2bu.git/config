@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = https://github.com/OpenHD/rtl88x2bu.git
+	fetch = +refs/*:refs/*

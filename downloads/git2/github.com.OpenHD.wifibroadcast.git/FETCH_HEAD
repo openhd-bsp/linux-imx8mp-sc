@@ -1,0 +1,93 @@
+10bffc04c39bf7e37b913adae74512edb9b3c6fb		branch 'buildroot' of https://github.com/OpenHD/wifibroadcast
+73ac1ede2cb9f398b3985a71a8527382b808e6a7		branch 'codex/implement-retransmission-for-lost-packets' of https://github.com/OpenHD/wifibroadcast
+a64e5467a0ddebef8c6206fb5e9d51eb6eeafa0b		branch 'consti-dev' of https://github.com/OpenHD/wifibroadcast
+db3ca4ce1a67ee07827af1d51da5915db892a979		branch 'docs' of https://github.com/OpenHD/wifibroadcast
+a98f3540cc583ae4171e4235a282b8e888023614		branch 'explanation-wifibroadcast-8929796797929202429' of https://github.com/OpenHD/wifibroadcast
+137cf15d43cc9d2df9220b7e3d787c8e04caf74f		branch 'ext-pcap' of https://github.com/OpenHD/wifibroadcast
+14d5fdb1b49a715529a39ce3583dae1e45776aeb		branch 'master' of https://github.com/OpenHD/wifibroadcast
+c22c564d57eba1bc2d1b63f7c717a9b4158acd42		branch 'openhd-release' of https://github.com/OpenHD/wifibroadcast
+3c223a04a791178577130bf5bbaa580195ef69c5		branch 'pre-unify-tx-rx' of https://github.com/OpenHD/wifibroadcast
+6cfc44355905e1158ad6a16a9b1efbb99e958ef8		branch 'x20_jumbo_frames' of https://github.com/OpenHD/wifibroadcast
+12e3ac94bc2abf770d46494541b593ff11581c07		'refs/pull/1/head' of https://github.com/OpenHD/wifibroadcast
+120b649a55f4086ca289b32f99ca5dd2e8b37b0e		'refs/pull/10/head' of https://github.com/OpenHD/wifibroadcast
+266a0b81eea0a4534d96646718792e09336158bc		'refs/pull/11/head' of https://github.com/OpenHD/wifibroadcast
+82d5a75d21f97876c5df0a457c5684e1d4024b75		'refs/pull/12/head' of https://github.com/OpenHD/wifibroadcast
+b8b9938ff8b82768d3d3902be28bdc5c1499bfe6		'refs/pull/13/head' of https://github.com/OpenHD/wifibroadcast
+f628ee6fb9b3074ba948a6d83c373026a6628811		'refs/pull/14/head' of https://github.com/OpenHD/wifibroadcast
+9821513774c3a515908e993ca94b64523793dfd9		'refs/pull/15/head' of https://github.com/OpenHD/wifibroadcast
+68598b8bae5fd3ea59bda5ab2037223ae58db396		'refs/pull/16/head' of https://github.com/OpenHD/wifibroadcast
+9d49cdb38f0b92e2f17ee4cbb46000d14810a2c9		'refs/pull/17/head' of https://github.com/OpenHD/wifibroadcast
+6708761c5580d3abc9ec67e8f7f5d5b4713ab310		'refs/pull/18/head' of https://github.com/OpenHD/wifibroadcast
+7f03c903a8fb4ba1d665bdb5b507c8b087389282		'refs/pull/19/head' of https://github.com/OpenHD/wifibroadcast
+c74149acda5a8c396f0cc43b1eb2a099012d6555		'refs/pull/2/head' of https://github.com/OpenHD/wifibroadcast
+6463c29b80a3c93d2a0ef15099ea36b31e880c60		'refs/pull/20/head' of https://github.com/OpenHD/wifibroadcast
+1d2f4fc3c8c4bf0f00c079d1ad6fd65d56089d6c		'refs/pull/21/head' of https://github.com/OpenHD/wifibroadcast
+f45958e7217dc753c7d2ebd9cf2debf03960f8ab		'refs/pull/22/head' of https://github.com/OpenHD/wifibroadcast
+d960f01f62ce704aad041b6036df46b490945665		'refs/pull/23/head' of https://github.com/OpenHD/wifibroadcast
+2a6215d58f2a672419ddbf99497db87390a8b215		'refs/pull/24/head' of https://github.com/OpenHD/wifibroadcast
+1b12caa98b2f95c8e9c788a734c8e01d19784700		'refs/pull/25/head' of https://github.com/OpenHD/wifibroadcast
+aab4e316c1dcbf750fc499563028eca7a22fd99a		'refs/pull/26/head' of https://github.com/OpenHD/wifibroadcast
+7b2a452068a98d8b6f295f74713547d4e053cc78		'refs/pull/27/head' of https://github.com/OpenHD/wifibroadcast
+d2ca9ef3b94cc83e4baf8f068fea7bd12aef059b		'refs/pull/28/head' of https://github.com/OpenHD/wifibroadcast
+ac4cc7a65d798e32d7b5707bbe96e18eb9e87306		'refs/pull/29/head' of https://github.com/OpenHD/wifibroadcast
+229f59525ff64c48c9772564d9a0e635346e1b15		'refs/pull/3/head' of https://github.com/OpenHD/wifibroadcast
+dfe750813d738a6feafc8ccda37d98c2bc23321c		'refs/pull/30/head' of https://github.com/OpenHD/wifibroadcast
+ab8a3a79efb2e9186b9cc243bee68f14eb2a5e64		'refs/pull/31/head' of https://github.com/OpenHD/wifibroadcast
+56b8481f83cdc99aa967d50d73d57d25933d07f5		'refs/pull/32/head' of https://github.com/OpenHD/wifibroadcast
+24943e27f0bf1819eb5011f2505f78e49ccbb0f7		'refs/pull/33/head' of https://github.com/OpenHD/wifibroadcast
+6f5f1a4d901e32ed4518793dbdd4ab2481908777		'refs/pull/34/head' of https://github.com/OpenHD/wifibroadcast
+c63b02eb276f7ef276bffd8866dd1476208433da		'refs/pull/35/head' of https://github.com/OpenHD/wifibroadcast
+17c10f099f313c9af426f99753f97639c325aac9		'refs/pull/36/head' of https://github.com/OpenHD/wifibroadcast
+6a6db504f376caf12590423767e0a0fd856ecb46		'refs/pull/37/head' of https://github.com/OpenHD/wifibroadcast
+71f92a3fa165523f99cd7010a1fa2a2562dbd31f		'refs/pull/38/head' of https://github.com/OpenHD/wifibroadcast
+a526de64c5fd974afb0dd0dfabdb396da31bbd47		'refs/pull/39/head' of https://github.com/OpenHD/wifibroadcast
+fe89993b2daf2da8acc52b2c7ff4044026668610		'refs/pull/4/head' of https://github.com/OpenHD/wifibroadcast
+dfd8d1bbeaeb1c65d348afb892b2936b564c0773		'refs/pull/40/head' of https://github.com/OpenHD/wifibroadcast
+341ff62c339c2a4ddc9ab70f2ad4814bf91e3bf6		'refs/pull/41/head' of https://github.com/OpenHD/wifibroadcast
+58433536b3d6c2e73fc9702767aa366f2154646d		'refs/pull/42/head' of https://github.com/OpenHD/wifibroadcast
+c22c564d57eba1bc2d1b63f7c717a9b4158acd42		'refs/pull/43/head' of https://github.com/OpenHD/wifibroadcast
+879678e571d79245c4e177aeb337ac130c2303d1		'refs/pull/44/head' of https://github.com/OpenHD/wifibroadcast
+71ffd761846af2cfd60184eb27845ca342ebd32f		'refs/pull/45/head' of https://github.com/OpenHD/wifibroadcast
+b620a568236393566fcd6206d0eda026cb07c33f		'refs/pull/46/head' of https://github.com/OpenHD/wifibroadcast
+d513b7f4f91730eedb54c2feb1e16e2016f526e0		'refs/pull/47/head' of https://github.com/OpenHD/wifibroadcast
+3cf6f1dd6fa409e2aa8554ad862f285a18804332		'refs/pull/48/head' of https://github.com/OpenHD/wifibroadcast
+a3531650ff4a2794cefd8a4341fa91295e913218		'refs/pull/49/head' of https://github.com/OpenHD/wifibroadcast
+afd6ecd93244d9ee53d944aeaaa924f6beebed8d		'refs/pull/5/head' of https://github.com/OpenHD/wifibroadcast
+56446ed95160bd7793780d5f04248cf68fac6fc1		'refs/pull/50/head' of https://github.com/OpenHD/wifibroadcast
+a64e5467a0ddebef8c6206fb5e9d51eb6eeafa0b		'refs/pull/51/head' of https://github.com/OpenHD/wifibroadcast
+7d7f91c7b196f6c47ed3d8299174bae87697fb1a		'refs/pull/52/head' of https://github.com/OpenHD/wifibroadcast
+10bffc04c39bf7e37b913adae74512edb9b3c6fb		'refs/pull/53/head' of https://github.com/OpenHD/wifibroadcast
+7aeae8bcc43c5461179b0ecdc4f85115d68f22ee		'refs/pull/54/head' of https://github.com/OpenHD/wifibroadcast
+7cec7bfac955227b5e79bc21fba0d2fbf8f75105		'refs/pull/55/head' of https://github.com/OpenHD/wifibroadcast
+73ac1ede2cb9f398b3985a71a8527382b808e6a7		'refs/pull/56/head' of https://github.com/OpenHD/wifibroadcast
+091033f98d2aafc76241d3837cffc348d1fe9820		'refs/pull/57/head' of https://github.com/OpenHD/wifibroadcast
+a98f3540cc583ae4171e4235a282b8e888023614		'refs/pull/58/head' of https://github.com/OpenHD/wifibroadcast
+77e85eeb67c6c7aa19b3bd08168322c15959c95f		'refs/pull/59/head' of https://github.com/OpenHD/wifibroadcast
+13326559d3cd0d863eb1d608568d82731f412390		'refs/pull/6/head' of https://github.com/OpenHD/wifibroadcast
+d9282e216fc02005262d109582f4b81716ca3231		'refs/pull/60/head' of https://github.com/OpenHD/wifibroadcast
+56823737791af90ef80d9483392281fdd437de5d		'refs/pull/61/head' of https://github.com/OpenHD/wifibroadcast
+a9d1942420955ea1902c13fd23711c4115386b21		'refs/pull/7/head' of https://github.com/OpenHD/wifibroadcast
+c828dba05bd2d5bf4e0855e409315f87ec445590		'refs/pull/8/head' of https://github.com/OpenHD/wifibroadcast
+c6f4c9ae30b7cd69913e9c26b7c9a620e139c84d		'refs/pull/9/head' of https://github.com/OpenHD/wifibroadcast
+0e55299afbb5083bd85acaa5cb6d069fb6ded450		tag 'v2.4.2' of https://github.com/OpenHD/wifibroadcast
+14dc9b6690a552e8009cbd6da8eff3a7eb9da689		tag 'v2.5.0-beta3' of https://github.com/OpenHD/wifibroadcast
+04ed97dcefcc29fbb9c98fb5b50e05447eb9f5aa		tag 'v3.2.0' of https://github.com/OpenHD/wifibroadcast
+b016e637c80eb316e8d3cc8b50cee4b8d5adce3d		tag 'v3.2.1' of https://github.com/OpenHD/wifibroadcast
+aff424f0409d44daa4662b6dea843fb8fe6e3aa2		tag 'v3.2.2' of https://github.com/OpenHD/wifibroadcast
+b990fca54bdb5f01627a9eec932ad82c436d02be		tag 'vX1.0' of https://github.com/OpenHD/wifibroadcast
+b9c4db0b7620905a2dfaef7eeed69757beada7fa		tag 'vX2.0' of https://github.com/OpenHD/wifibroadcast
+5ef992177585263976170fbf361ef03629cec0ab		tag 'vX3.0' of https://github.com/OpenHD/wifibroadcast
+7a548d82243952baa9d7c855997db0c086657a3d		tag 'vX4.0' of https://github.com/OpenHD/wifibroadcast
+3e5d3c3481eabe62d6a898ee8e1f724aaed9781d		tag 'vX4.1' of https://github.com/OpenHD/wifibroadcast
+b67b90659df2cee3d79d7babff791e5ec8fca29f		tag 'vX4.2' of https://github.com/OpenHD/wifibroadcast
+ce3b56e7681123f8ac5971056dde35efd784a9c0		tag 'vX5.0' of https://github.com/OpenHD/wifibroadcast
+91e3630024eb840888c92753d6bfdfbf7680f8a3		tag 'wifibroadcast-17.10' of https://github.com/OpenHD/wifibroadcast
+1536c6c645b63da73fdf37124a39ca25656bc459		tag 'wifibroadcast-17.10.1' of https://github.com/OpenHD/wifibroadcast
+4d64b6ce8464a8b6c6cbf5bd3039b4f9dea1cf00		tag 'wifibroadcast-18.10' of https://github.com/OpenHD/wifibroadcast
+2788eeac820f4628fa6ca391fa3130938479d6c5		tag 'wifibroadcast-18.12' of https://github.com/OpenHD/wifibroadcast
+51e799358d13c6b625a9cfc20aff5424c773e955		tag 'wifibroadcast-18.12.1' of https://github.com/OpenHD/wifibroadcast
+c05beb5d733cb2e7f7aae06b1e5153d081e3ae02		tag 'wifibroadcast-19.01' of https://github.com/OpenHD/wifibroadcast
+1374397e94eed944984c7d8f03a4be6866a40088		tag 'wifibroadcast-19.03' of https://github.com/OpenHD/wifibroadcast
+b933ad2dbf3fd39209751ba7b89ccce546b5760f		tag 'wifibroadcast-19.03.1' of https://github.com/OpenHD/wifibroadcast
+2c24cfdda95b27768bc6fc8c6883664629613039		tag 'wifibroadcast-19.06' of https://github.com/OpenHD/wifibroadcast
+c18e6d68db555465ff7762ca4cb1dfd76d2c9131		tag 'wifibroadcast-20.08' of https://github.com/OpenHD/wifibroadcast

@@ -1,0 +1,18 @@
+# pack-refs with: peeled fully-peeled sorted 
+e9dd134ccf4a529bba8869ce40850c2cc73f52f5 refs/heads/1.15.7
+0c8f2cfb6b2c1eaea468d232e5c7eb661d013fcd refs/heads/clean-base
+7a54b831d971273f2d51a82a99f7d4044d2ed23a refs/heads/consti-dev
+5c3a75a8a2892d95f86ee424da73581904b54738 refs/heads/debug
+a3eea9e16ca7625c90e006f3e32a15c84dc10009 refs/heads/hacky
+0e3ce97ee34e99bf473b056ca6cb9ae8a0f2d146 refs/heads/initial52-1
+adf4b24eea2c5fa06a76f3239d509e2e787d1db8 refs/heads/master
+10f8451ae03adcf58984f17c398182f0c5b3be25 refs/heads/openhd-procfs-88x2bu-13232581704363543462
+95374e485afec7628896fc6f0a101aa1ff61ce3b refs/heads/originaldriver
+51476d5bb287e3674cd6a509df52168669acf4f9 refs/heads/rockchip
+e336dc6a7b01c9efedab7940611f059b5dfbf347 refs/heads/testing
+48c37e85480a7712a5813384b8199c4ab2e283e1 refs/pull/1/head
+2b1d29a2b5dd5b1b1cea8593a933362d4aeadd14 refs/pull/2/head
+aff84e9bd8eb86f07ce8b33680f67979ec52e258 refs/pull/3/head
+abe73990077161ad0ec426f3e77c20319e5a4526 refs/pull/4/head
+a40874891c366ca4ede6bb79318e24bc7af05f1d refs/pull/5/head
+b6f4f1b864d51691e33a7140f875f92533fd5e17 refs/pull/6/head

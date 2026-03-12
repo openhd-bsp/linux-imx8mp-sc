@@ -1,0 +1,13 @@
+# pack-refs with: peeled fully-peeled sorted 
+2949192b7a8e7a46ebb05e347ae4ae8bba878f6c refs/heads/debug
+a55c4a67b9b32d29408f7d8881a65faf43bc1b42 refs/heads/mod
+fd29d9bcad0ad845c87b89777ec478bfd544eb15 refs/heads/new
+35a2e3191ecdc9f4462da55145a8b8a8fd3be408 refs/heads/openhd
+909ad5799a26362128736ff089861aeba9d24ec8 refs/heads/original
+2b8d08cc976fc543c0b2e8d037062b47634de0bb refs/heads/v5.15.0.1
+126c66153116e5993b90616e1a2002ee2e8405fc refs/heads/v5.15.0.1-197-ge90764eb9.20231128_COEX20230616-330a
+2b16302dbb84ba845b0aed93594f3569cc4b6047 refs/heads/x20_jumbo_frames
+7d6b0d37b5f63d8ef2267af7b8decb43d68ee54e refs/pull/1/head
+b77f2f37c56503ee06e89b16296c33ad9c3b5091 refs/pull/2/head
+b77f2f37c56503ee06e89b16296c33ad9c3b5091 refs/pull/3/head
+88a363b7dff22091f82a5eaffd0b57309615d45a refs/pull/4/head
