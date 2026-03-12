@@ -1,0 +1,193 @@
+# pack-refs with: peeled fully-peeled sorted 
+8b03a1ca99351e5ad31ebedff66aa40c65576f7b refs/heads/main
+efc0ff5c8f56cf2c3ae618feb40cd21d2e19155e refs/merge-requests/1/head
+965c538f9a77cab38b5ae8241175ac7f9872ccab refs/merge-requests/11/head
+ebdb243623bd52cc2e18f36b5eeb861ade6f6180 refs/merge-requests/11/merge
+f9d4ba427166fbdafa64b7190c4332e724cd2430 refs/merge-requests/26/head
+b8377db3ced16fd7b6bf1b071305b7c9c70e4092 refs/merge-requests/26/merge
+8ee90f600e330a9624429b5d8278aa36124af6c4 refs/merge-requests/34/head
+16cc51c78664a4a1dc8dd4da1b0d3de7cf855606 refs/merge-requests/34/merge
+6d4b226b3ea40fffec731c7c7ab43a1f9a748ff7 refs/merge-requests/35/head
+112ea98dbc60b56107bca6b41c06ef90443a3b6c refs/merge-requests/35/merge
+45f7f93b8a1ca4eb07df007d1f06cb1ddb8f97ad refs/tags/iso-codes-0.24
+665a5378d470fd145293fd51e8614e3ee7264626 refs/tags/iso-codes-0.25
+a05bf6db9771c310360bd7c52ca9f036e8373c93 refs/tags/iso-codes-0.26
+0a29f18c8f2618e10c215a8e7802e56b9f34d8fd refs/tags/iso-codes-0.27
+760f31adc92d62ac0e6465e77e74a2ce267416b6 refs/tags/iso-codes-0.29
+a09ad1590d30e840477b76ec7bb683fa0db82ab4 refs/tags/iso-codes-0.30
+53ddadbdea9fb8a2218be529adba24542a7ed20b refs/tags/iso-codes-0.32
+a5a8f7a7832343f160426b3f2182eb528c6d1104 refs/tags/iso-codes-0.33
+50e4fde027a7adca75e7c6c2ceae6b1b1ca76d39 refs/tags/iso-codes-0.35
+dab56b311a3b62caf1ee04268df1c6cf60f12f2b refs/tags/iso-codes-0.36
+38ee511a4d26986dd9b219ebca11cf7217bf2cf1 refs/tags/iso-codes-0.37
+d478827ee0b3d839b617131409b2c22464e23ef7 refs/tags/iso-codes-0.38
+52a07e617241fd4aa98832a0458b4aaba6900142 refs/tags/iso-codes-0.39
+f598682dbeed29305c94d21fbd74e2a62ba31d03 refs/tags/iso-codes-0.40
+51bfb56a3ece7dbb5ba81bdde5744c3fb8c80f39 refs/tags/iso-codes-0.41
+3c3c760cda22f7e3eeceb96801ad7dc268d120d0 refs/tags/iso-codes-0.41-0.1
+de880ad7fbdabcdd318cbbc10b2edbdf5a113280 refs/tags/iso-codes-0.42
+b372c7b7d2ab9a3604cf07084d8e1098489b7d9c refs/tags/iso-codes-0.43
+b1c5badad5351640c3948e69ba4ef846e08723ad refs/tags/iso-codes-0.44
+a8f1cb9613083d5b4ae7ae7085ecd18e3e189f95 refs/tags/iso-codes-0.45
+bbe69ed9536b8876f178a2d7e757714cb46419b5 refs/tags/iso-codes-0.46
+d8d771eb83221bfc68ac4812229aac031a995f20 refs/tags/iso-codes-0.47
+01760dde5be96ce9b4d8dbee7983cfe092db39c2 refs/tags/iso-codes-0.47-2
+aaacd977e0ccb932be86379f2c92d6f4c0c2266f refs/tags/iso-codes-0.48
+3f9699507689246740b2f3f0f3fb79662b6b5046 refs/tags/iso-codes-0.50.1
+0b9ea649022476604fe845279dec5b8f298aefa4 refs/tags/iso-codes-0.51.1
+d46f3f989691ee26bfb8f549d7d5a504bbed0248 refs/tags/iso-codes-0.52
+04e00ad44daa25549af8b8ecd5dd143d7629d6c9 refs/tags/iso-codes-0.53
+9cb3a07f1ee9a4bc130837f602d1bf86540ae760 refs/tags/iso-codes-0.54
+9d29db937b8c64072a75a1cb6b1043f08912ef39 refs/tags/iso-codes-0.55
+53c81acf1ab29e2987f16bb8191c23790006f6b5 refs/tags/iso-codes-0.56
+4922ad41d643a04f8813ab66dbaa62030fb88619 refs/tags/iso-codes-0.57
+27e180e1001eb93f9459ebdedab2c4c1fbf46c60 refs/tags/iso-codes-0.58
+e5237a5df8d1237b75b29bb6bb040e3a2c6829ef refs/tags/iso-codes-1.0
+548665e1e713e0e8654c6e3ee669b3d69e9ddf5f refs/tags/iso-codes-1.0a
+afec27d4b41c8eab14a5e6c2b4da2a319e331f68 refs/tags/iso-codes-1.1
+de50039114de61f9c605c919198ff00604077f36 refs/tags/iso-codes-1.1.1
+bc8e7e46fd770e64abc2f87066183c11c2e1d393 refs/tags/iso-codes-1.2
+70f62a843a0af1a777664d6717e1b2a665ab283f refs/tags/iso-codes-1.3
+b737b62e7678642e4112844916f2ee049446e655 refs/tags/iso-codes-1.4
+b19693241b087d92ffc8eb38c21ab39f2e39a0de refs/tags/iso-codes-1.5
+cbd5c3de0363e2cc9fb5cf086d0dbcf311e9eed8 refs/tags/iso-codes-1.6
+c48353f081e4315358e129c8cec95a4f8c1b0f5a refs/tags/iso-codes-1.7
+748585b3c968ad3fcc5f50bd5b9bea94f94e7b74 refs/tags/iso-codes-1.8
+cbfd69cc6b45fae6588c0a07bfc2710b419a288d refs/tags/iso-codes-1.9
+be6ea5bc3bd2bc6d3648c5b5e2c1ab19249958fb refs/tags/iso-codes-2.0
+d00e739e7a8435123d376fe166b208bc2fd57d47 refs/tags/iso-codes-2.1
+c823e5ad897ac6baf1425e6cc9d4fb415893da7b refs/tags/iso-codes-3.0
+32768102562ae20e44afa8ab62a37c4bc68efb15 refs/tags/iso-codes-3.1
+b69006712e22aab683b92a27d1868764fe553035 refs/tags/iso-codes-3.10
+dd1ad3365a34cf5362e4e9fd7e82154867ebb046 refs/tags/iso-codes-3.10.1
+f43bcabcb149dbcc9233ddd2a41e05081abf2350 refs/tags/iso-codes-3.10.2
+365ebb27662d9c7fcd632540d4412d82811d1a8d refs/tags/iso-codes-3.10.3
+dcc43779e1cd681bf7175b9eafc7e4aabd9de16c refs/tags/iso-codes-3.11
+87c50fe54a4ca8bafeee01e4a2239d6a8d6e260d refs/tags/iso-codes-3.11.1
+8ec9cacc30b02f574bb823cb43f18aefe89a7cab refs/tags/iso-codes-3.12
+9838e36380751aef008701d8ef50cd3dd544efdb refs/tags/iso-codes-3.12.1
+aeb2e674ea1ac963f6e63e2acf71ad8a803fb3f2 refs/tags/iso-codes-3.13
+1f695336008c84f3ea0c08dbc495185e2313863b refs/tags/iso-codes-3.14
+839a2dc4e61d3b9f22efce8cac6c33e9343317a3 refs/tags/iso-codes-3.15
+119b023d062b4ee21635549db0d3361f179506d0 refs/tags/iso-codes-3.16
+bf9873a216ae6ec94ba3fdee352c45f0648aa209 refs/tags/iso-codes-3.17
+949f20fb2e8d015a9d6458eaf48262bd0cb7caab refs/tags/iso-codes-3.18
+8df5f61271e7d7f2583fb840084b3e32414007fb refs/tags/iso-codes-3.19
+2a4dd179b059b696dec6bcffd10f7badd790722a refs/tags/iso-codes-3.2
+83fe54c1e0520a0a3e3e0823a5721cfc905b0b55 refs/tags/iso-codes-3.20
+324897aa28bb664c25633d6934d1104d726dabd8 refs/tags/iso-codes-3.21
+e98d129bdd7e9679c1acda0e65118f5a807aacae refs/tags/iso-codes-3.22
+148ffe6a011f127e7ab527b158e6db84ff541d91 refs/tags/iso-codes-3.23
+b24bfdc41bc790dfa0806d643bc30ac02a64d3b9 refs/tags/iso-codes-3.24
+e035488413ef49b868a7e049f4518d0c4630bd0c refs/tags/iso-codes-3.24.1
+9e2a15e6a70a6a7dbb40f558dc599af3e3fffd4e refs/tags/iso-codes-3.24.2
+8f401afe96ec819849e42eb383721469534803e6 refs/tags/iso-codes-3.25
+fe471590fcdcdcd9cd8e4b4b84212549f5fab8b7 refs/tags/iso-codes-3.25.1
+c8e24cc358ca177262aad793254df635d2c3acb3 refs/tags/iso-codes-3.26
+c7edb664c324f4426b8baaa2dfb677f1d6839717 refs/tags/iso-codes-3.27
+fba215fcdec36fe884b21d96528f0fe5cf74a4a0 refs/tags/iso-codes-3.27.1
+d694ec174af3a8fd0fe04b8c3a0412c5d94fb833 refs/tags/iso-codes-3.28
+bd6829620c121bb878a173c4fbd79c6fcaedca9a refs/tags/iso-codes-3.29
+66c9556a0ad7413d89a8a69c2266f8db1d37ae34 refs/tags/iso-codes-3.3
+3d5455241ace185edae349293ddc203356c5d7e2 refs/tags/iso-codes-3.30
+1c01106b5e5364072934ba074d49a558e928816f refs/tags/iso-codes-3.31
+b5f26a64858807fb771456884ddc641bc17e1b27 refs/tags/iso-codes-3.32
+4435999a8df08e6600e077a4dd0f339ad3144205 refs/tags/iso-codes-3.32.1
+b1093697dafc4f621a9b5066d9b94a459ac69c00 refs/tags/iso-codes-3.32.2
+39e896c0f5ecc64f4eecca95b81bb3a5de0b9d1d refs/tags/iso-codes-3.33
+5e7014f5836249b30ae64363e3b23406512092e2 refs/tags/iso-codes-3.34
+df98c09fe0d7e11268e55d534f7e501fe7b76866 refs/tags/iso-codes-3.35
+7735d4a7eacfe468760ef281133015a166a0a1e2 refs/tags/iso-codes-3.36
+39857d454145f05edfdc3a6149f6ba2503b4fe0b refs/tags/iso-codes-3.37
+c296bd9485a32398a570d625e0cafa5b31d1a844 refs/tags/iso-codes-3.38
+5e40ba5f5b37c8050759bcdb08031b30082e964b refs/tags/iso-codes-3.39
+7482569236c0f6848ee784a3a6171c368cb1095f refs/tags/iso-codes-3.4
+90d229aa836e7fb8a63f1faafca72a06c9a9e151 refs/tags/iso-codes-3.40
+e7e1010714a93d7e1ecb89d6d123284cc248cb2b refs/tags/iso-codes-3.41
+405d92fb6f0a18f46805bc4e5d0414ec31459adf refs/tags/iso-codes-3.42
+00b79648369500ae01b219eb5f5626b408443ae0 refs/tags/iso-codes-3.43
+4111777c54988a7885546a24f35fc1c1d9a24dd9 refs/tags/iso-codes-3.44
+2fc8f44436f19afe25dc7236503de8aab7a34582 refs/tags/iso-codes-3.45
+ce12921fb4c82371ae519ee5f61c8756de8e62e7 refs/tags/iso-codes-3.46
+08400b33d564de7873a3c90bd73e8b84d668f9d5 refs/tags/iso-codes-3.47
+3ce7d03249a4e18bdc89b680948176de7cfd359f refs/tags/iso-codes-3.48
+15c69fcb37f20ac389a0068501aa8d20490284bd refs/tags/iso-codes-3.49
+787de71a8d0f5b416a11892ebb75079f00526bf2 refs/tags/iso-codes-3.5
+118d4667293b029d3677677011c376db085f1f86 refs/tags/iso-codes-3.5.1
+766fbe805b31f490546510f31f740b8d7d117c07 refs/tags/iso-codes-3.50
+c2dbf46566ead18ba7cbe7a92ad9cf5ae84358dd refs/tags/iso-codes-3.51
+fbd8434669713eb56b45ba32be6fef0f93e24ba3 refs/tags/iso-codes-3.52
+89b51972096e2f80b40c3daaaae50d86b1df584f refs/tags/iso-codes-3.53
+277c67fd95929c0b8614f5eb7fac7b13e596ea35 refs/tags/iso-codes-3.54
+2d2fefad7ed1d2bf7746db93aa284ac99ddfa34f refs/tags/iso-codes-3.55
+f8303b3ef5ebc89adcb729253bd787283d81f9df refs/tags/iso-codes-3.56
+3dcdfd37e232a4e4fd7cbfddcd6e17c58b19d232 refs/tags/iso-codes-3.57
+1ff05c323d86994bfe99d0df2f20048dc9e2b209 refs/tags/iso-codes-3.58
+5a7a4107b9d479ae0250d4d2708316db533e8dbe refs/tags/iso-codes-3.59
+27b4dfc3ed9dc43136c38181c58a9acfff80a600 refs/tags/iso-codes-3.6
+071a1d73196d040008a1b6ecda21844c0a9bfe7c refs/tags/iso-codes-3.60
+18ac112b4b84c8f03743565fde3512a637820761 refs/tags/iso-codes-3.61
+36b99b749b55e930031b0743e5c212180d33f768 refs/tags/iso-codes-3.62
+e985b9e21a88529feb16bcf1c3246a71a389804b refs/tags/iso-codes-3.63
+22eaa606c404b8ef692425671541f54aaf178a61 refs/tags/iso-codes-3.64
+805972e5147cc087f8800cff5ee9f061f2dd5b62 refs/tags/iso-codes-3.65
+3a2451ced93fa87ed684b764c0cac491213e6f77 refs/tags/iso-codes-3.66
+080f941e075fef791b22feae659e8a510f57fe2c refs/tags/iso-codes-3.67
+24d722a698c07cf535d5f346af1c7bd9906f6214 refs/tags/iso-codes-3.68
+9899a8810d89c32d6c762d14b0e115ed56d3a97e refs/tags/iso-codes-3.69
+8a50a9d470c4d2902925d0ae57ad58342df72c6f refs/tags/iso-codes-3.7
+acb212060f5740ff86995710b0b6c1499d005b54 refs/tags/iso-codes-3.70
+b5d6d04368e5322f9016e97c1066f7e70c5f5849 refs/tags/iso-codes-3.71
+3b7499ef8817780a3661a8d2b0103a045b607a84 refs/tags/iso-codes-3.72
+35606e43b6a36515609152a932d51264eb549613 refs/tags/iso-codes-3.73
+df0820baa5f236da2520995153fabb557da55f8e refs/tags/iso-codes-3.74
+a37f8c303d96cefcda4cac6f1e7311be8eaa64a3 refs/tags/iso-codes-3.75
+466dd437f40ec20d328dc5bf9ac57b64c4f954ab refs/tags/iso-codes-3.76
+f3be15c7a9c2cd6827d5256be4e140a4ad5078ba refs/tags/iso-codes-3.77
+^0a932d3e1e6d9058a6ef874c8ff1dc4a193bc030
+05ab11e37769acd32505e532de423d828e035813 refs/tags/iso-codes-3.78
+^7977922fdbb5569de771927357baf2f098c4cac8
+d94514c55fba3d190ec53ff9c4b0820cf664bf58 refs/tags/iso-codes-3.79
+^c1d5dd96b33cb815ebc21d2708bc045b1545249d
+6d7ee7cfbc1a894706b8bb90f8b3a9c1573d92cf refs/tags/iso-codes-3.8
+07c43ce45c5440031ef9cd78863d888662d8aa96 refs/tags/iso-codes-3.9
+4e6a3931ece2a3c860e1fdda9f3b9639a1293588 refs/tags/iso-codes-4.0
+^8c5ec1fc5642b6b05307f20158d077ecdcce9a66
+3c9dabcabe04025881d3dd6d43d096c8b2d2c2e0 refs/tags/iso-codes-4.1
+^164802d5fd8c7a8167816fd86a62b286680619f0
+d71814100f3f64c502ca2fd03b9fe676f2069384 refs/tags/iso-codes-4.2
+^58a4f20f8e6f4d8f9545333f3eae4cfe5678de16
+88a5a6a6a0bf274f067c003b4b44fa43d632d2ed refs/tags/iso-codes-4.3
+^43398a317371e309361ce43072603863cb2f57e1
+c8e0959d5f208b82dfe605fb23025c02646b1f93 refs/tags/iso-codes-4.4
+^38edb926592954b87eb527124da0ec68d2a748f3
+b219f4e91e2da385061ae996244b36ea7a50f640 refs/tags/iso-codes-4.5.0
+^a36019e5014bff251f83d522ddcfebaecf52afd3
+83ae8b19352c5ec60a01b855b2c05f2921c82425 refs/tags/iso-codes-4.6.0
+^3c012d266acaeda93d3e61ec11b8c18c1964fce1
+301edcfa098eec0a64d9db5daa02cf8aecbf882d refs/tags/iso-codes-4.7.0
+^59767ed869f3952575f7d0f639a290a4c4b315e5
+ee3904cfdec361cc049d4f239d255c087316263a refs/tags/v4.10.0
+^9a6c24ee40e737ab34273c1af13a8dabcae888dd
+f391b37f286fe06369e0ea6c801125e1d51167e7 refs/tags/v4.11.0
+^2651d7fe65582263c57385a852b0c6d8a49f6985
+6f5ac417864bb032c927e445eaa80e40514880f9 refs/tags/v4.12.0
+^5e4dddbd1f8902ab0252ccbb19b783cc0359505a
+a426da57d38796c8f1b505ef11b09594fcd79f06 refs/tags/v4.13.0
+^ab6b01d5b56af7da9f0d2d1619a3cf84e43ed76a
+6474779858b0214bb53ad4a949c2d71a814b97a6 refs/tags/v4.14.0
+^55f13f3b5d37c0c1afa9b9d03198640112335e46
+0bddd74d128b0670069a72128031adf530aefa9d refs/tags/v4.15.0
+^69ba16daef3c5c5e3c18f2d919e25296a4b946be
+899e1f7453df0220bc6513beb6122f561bba7dea refs/tags/v4.16.0
+^c2fcaadc832ed9f858950a43994973442d85ef4f
+ab3c16500e4a0181f4154de42229fb71e4789d61 refs/tags/v4.17.0
+^0640070a001ca6edfa8ab6b61fe3230e66b3963b
+ea826474b870de30688bb93b61f9774487786991 refs/tags/v4.18.0
+^5be4d112d420706eacd913a3ebd85549fe9eeae4
+a30013ad617cfdfc05a6a61bd438640ee4b0e01e refs/tags/v4.19.0
+^0f3a862394265a31d8465fc5e627d6429bbd8394
+c0d93fb8a4582bff8c38369ee98f2af2921c4029 refs/tags/v4.8.0
+^5d0a5515f26b3858e27939c8f9a732d8bd4271ab
+9e16c80f9e0241fdafc91243469915191c17c8c5 refs/tags/v4.9.0
+^35ae2024024eb8e6603d3034dbbc406594f3874c

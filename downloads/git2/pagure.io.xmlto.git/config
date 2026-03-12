@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = https://pagure.io/xmlto.git
+	fetch = +refs/*:refs/*
+	mirror = true

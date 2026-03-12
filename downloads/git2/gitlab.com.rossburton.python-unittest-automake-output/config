@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = https://gitlab.com/rossburton/python-unittest-automake-output
+	fetch = +refs/*:refs/*
+	mirror = true
