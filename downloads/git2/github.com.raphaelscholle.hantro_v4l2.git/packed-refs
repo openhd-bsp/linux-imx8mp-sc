@@ -1,0 +1,23 @@
+# pack-refs with: peeled fully-peeled sorted 
+82ed17618e8779a5033cd36032824b86d74ebecd refs/heads/codex/add-debugfs-interface-to-vsi-v4l2-encoder
+7bdedd838a6812aafe46d7f2a957bff708051902 refs/heads/codex/add-debugfs-interface-to-vsi-v4l2-encoder-9cqtp3
+972232bfcfcea10aed624165ecbf2d3e4aa0bcba refs/heads/codex/add-lock-free-timeline-log-to-vsi
+0f6fb528b9c55603551a1c8875d9d7e2d3ee7cce refs/heads/codex/add-logging-for-v4l2-control-sets
+537c119a72fab3a1323be2febe76b719c8da84fe refs/heads/codex/add-procfs-support-for-live-variable-updates
+c6041fd11a80bd726be32aa76ff2aaa40f970efe refs/heads/codex/add-procfs-support-for-live-variable-updates-g0ibuz
+704370dd087dff13d753cfe70d97b47996da4083 refs/heads/codex/add-procfs-support-for-live-variable-updates-w1a7q2
+5e2966cee062d48751012fdf7fd18eec0317bfc1 refs/heads/codex/add-v4l2-controls-for-cyclic-intra-refresh
+353ecb1bd8b43fdd63a15ad6fa372cab6efc31da refs/heads/codex/fix-build-issues-for-nxp-i.mx-kernel
+e588545bdfc21726af19b73b0215b2a2cce74fc9 refs/heads/codex/fix-build-issues-for-nxp-i.mx-kernel-f859jv
+74de6e495b22d12402916ccdefb048b44e8e36ce refs/heads/codex/fix-daemon-open-policy-for-two-fds
+4f64c93791bf39e5fe8b7d63e1306ac94ffaeefc refs/heads/codex/fix-daemon-open-policy-for-two-fds-xcmkbk
+4e684f1729927dba3af873444420cc7105a1bfec refs/heads/codex/fix-runtime-control-override-logic
+ee12871326023a4c79b6b6592a01710385f6039f refs/heads/codex/fix-runtime-control-override-logic-s1s4sk
+5cba66b2eb0ec6f79487d0680846bbf356ca1afb refs/heads/codex/fix-runtime-control-override-logic-xejdjx
+a943a8c1eff5f9b5e01cc3faa694bc2907376889 refs/heads/codex/implement-runtime-bitrate-updates-and-force-idr
+bbf15c4693aa1c300ea48f4ab43992bb9a776a4e refs/heads/codex/implement-runtime-bitrate-updates-and-force-idr-uftrzz
+c6e0e4b2129b817a2867a265538b14c519e2c956 refs/heads/codex/make-new-vsi-v4l2-driver-abi-compatible
+66219e85142d74c4ca38235c5962261a2f7dd6ce refs/heads/codex/update-debugfs-implementation-in-vsi-v4l2.c
+14b03b805104394567b74796d8aa2e51bbf8bdd4 refs/heads/main
+08409d34bded3c255a0beeefcb962c90091d8cac refs/heads/testing_live_update
+5e2966cee062d48751012fdf7fd18eec0317bfc1 refs/pull/1/head

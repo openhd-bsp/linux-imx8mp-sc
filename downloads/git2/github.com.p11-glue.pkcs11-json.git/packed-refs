@@ -1,0 +1,9 @@
+# pack-refs with: peeled fully-peeled sorted 
+6d56219d6cd640f3629fb621b01068d7e768efc6 refs/heads/main
+9657a8f15758562f9c4a05ef712f73089fe129e7 refs/pull/2/head
+c3b3ed01be35b1d8f8dbdd4bccd2afe5d33ef811 refs/pull/3/head
+e9eef3107dea6e57300c53331d21d0420e6a1af2 refs/pull/4/head
+23ee92fe4b5544add6785fb397637f32e802b5b0 refs/pull/4/merge
+e6c33ed078052ae9946942ec6b226383cd92f1d8 refs/pull/5/head
+54748bf8d52b9370ee96c5ba1c2b8b59eb00009f refs/pull/6/head
+d07ea81ff630ff6b5fbbb530dc026e8acd0e110a refs/pull/7/head
