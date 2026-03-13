@@ -1,0 +1,32 @@
+Upstream-Status: Pending
+
+Use a safer systemd boot order for openhd-sys-utils:
+- avoid booting before basic.target
+- use bounded restart policy (not endless rapid loops)
+- enable from multi-user.target
+
+--- a/systemd/openhd-sys-utils.service
++++ b/systemd/openhd-sys-utils.service
+@@ -23,17 +23,17 @@
+ 
+ [Unit]
+ Description=OpenHD system utilities orchestrator
+-DefaultDependencies=no
+ After=local-fs.target systemd-udev-trigger.service
+-Wants=local-fs.target
+-Before=basic.target openhd.service openhd_rpi.service openhd_mod.service openhd-x20.service
++Before=openhd.service openhd_rpi.service openhd_mod.service openhd-x20.service
++StartLimitIntervalSec=10min
++StartLimitBurst=2
+ 
+ [Service]
+ Type=simple
+ User=root
+ ExecStart=/usr/local/bin/openhd_sys_utils
+-Restart=always
++Restart=on-failure
+ RestartSec=2
+ 
+ [Install]
+-WantedBy=basic.target
++WantedBy=multi-user.target

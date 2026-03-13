@@ -1,0 +1,43 @@
+From 6d53c9e5607f6e6db53957fca4256c6f4f8c9b53 Mon Sep 17 00:00:00 2001
+From: OpenHD Yocto <yocto@openhd.local>
+Date: Mon, 23 Feb 2026 23:00:00 +0000
+Subject: [PATCH] sysutil_wifi: fix ambiguous refresh_wifi_info call
+
+Upstream-Status: Pending
+
+Upstream currently declares sysutil::refresh_wifi_info() in the header and
+also defines a different refresh_wifi_info() in an anonymous namespace in
+sysutil_wifi.cpp. With newer toolchains this creates ambiguous unqualified
+calls in the sysutil namespace.
+
+Rename the internal helper and keep the exported function name.
+---
+ src/sysutil_wifi.cpp | 6 +++++-
+ 1 file changed, 5 insertions(+), 1 deletion(-)
+
+diff --git a/src/sysutil_wifi.cpp b/src/sysutil_wifi.cpp
+index b2d1759..7342b0f 100644
+--- a/src/sysutil_wifi.cpp
++++ b/src/sysutil_wifi.cpp
+@@ -1090,7 +1090,7 @@ std::vector<WifiCardInfo> detect_wifi_cards(
+   return cards;
+ }
+ 
+-void refresh_wifi_info() {
++void refresh_wifi_info_cache() {
+   const auto overrides = load_overrides();
+   const auto tx_overrides = load_tx_power_overrides();
+   const auto profiles = load_wifi_card_profiles();
+@@ -1100,6 +1100,10 @@ void refresh_wifi_info() {
+ 
+ }  // namespace
+ 
++void refresh_wifi_info() {
++  refresh_wifi_info_cache();
++}
++
+ void init_wifi_info() {
+   refresh_wifi_info();
+ }
+-- 
+2.34.1

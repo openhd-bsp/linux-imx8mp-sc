@@ -1,0 +1,46 @@
+meta-openhd
+===========
+
+This layer provides support for building [OpenHD](https://github.com/OpenHD/OpenHD), an open-source digital video transmission system, with the Yocto Project.
+
+Dependencies
+------------
+* Compatible with the Yocto Project "scarthgap" release
+* Depends on the core `poky` layer
+
+## Build Dependencies
+
+To compile `openhd-webui`, the host machine must have the .NET 9 SDK installed.
+
+### Ubuntu 22.04:
+
+To make the WebUi work you need to add dotnet (9) to your host 
+```bash
+sudo apt update
+sudo apt install -y wget apt-transport-https software-properties-common
+wget https://packages.microsoft.com/config/ubuntu/22.04/packages-microsoft-prod.deb
+sudo dpkg -i packages-microsoft-prod.deb
+sudo apt update
+sudo apt install -y dotnet-sdk-9.0
+curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash -
+sudo apt install -y --allow-downgrades --allow-remove-essential --allow-change-held-packages nodejs npm -o Dpkg::Options::="--force-overwrite"
+```
+
+Adding the layer to your build
+------------------------------
+Clone this repository into your Yocto build tree and register the layer:
+
+    bitbake-layers add-layer meta-openhd
+
+Building OpenHD
+---------------
+Once the layer is added, the OpenHD application can be built with:
+
+    bitbake openhd
+
+The `openhd_git.bb` recipe tracks the latest commits from the OpenHD GitHub repository. The layer sets `BB_SRCREV_POLICY = "latest"` and the recipe uses `SRCREV = "${AUTOREV}"`, ensuring the build system checks for new upstream revisions each time the recipe is executed.
+
+Maintainer
+----------
+OpenHD Team <https://github.com/OpenHD>
+
