@@ -40,28 +40,8 @@ tmp-eglibc/
 
 # sdk-share managed start
 # Keep original large files out of Git.
-build-frdm/bitbake-cookerdaemon.log
 downloads/boost_1_84_0.tar.bz2
 downloads/gcc-13.3.0.tar.xz
-downloads/git2/github.com.NXP.imx-firmware.git/objects/pack/pack-a762e4476ca34bda00765df29f26f3895cba3283.pack
-downloads/git2/github.com.OpenHD.rtl8812au.git/objects/pack/pack-772ec561b10bbd1eeadf3f285db811a78c43d8cf.pack
-downloads/git2/github.com.ThomasDickey.ncurses-snapshots.git/objects/pack/pack-13ba8c38eb81f014f742fb49c750552b4fa5dbf7.pack
-downloads/git2/github.com.gabime.spdlog.git/objects/pack/pack-f00611e133de4502193593fea170e8659699be32.pack
-downloads/git2/github.com.google.brotli.git/objects/pack/pack-196930e21687d53faafcad4e8f6bf537e5ba3c6d.pack
-downloads/git2/github.com.nlohmann.json/objects/pack/pack-993d7936c7bb58e372484e021ee57382f4789d92.pack
-downloads/git2/github.com.nxp-imx.gst-plugins-bad.git/objects/pack/pack-6c84261de9c96683d69a5824c7f37c043c487e40.pack
-downloads/git2/github.com.nxp-imx.gstreamer.git/objects/pack/pack-973e4b76c3c636e7f1a0f3eb0c27d86e9740f879.pack
-downloads/git2/github.com.nxp-imx.imx-firmware.git/objects/pack/pack-a762e4476ca34bda00765df29f26f3895cba3283.pack
-downloads/git2/github.com.nxp-imx.linux-imx.git/objects/pack/pack-a8c94d6933aa130b8e77a87f36e775339d6fa573.idx
-downloads/git2/github.com.nxp-imx.linux-imx.git/objects/pack/pack-a8c94d6933aa130b8e77a87f36e775339d6fa573.pack
-downloads/git2/github.com.nxp-imx.uboot-imx.git/objects/pack/pack-f4817df34d811e661f8dc5830dfb636953b05d7d.pack
-downloads/git2/github.com.openhd.OpenHD.git/objects/pack/pack-f55b345b3ac6e59bb3230cc36c1b49e475d56cbd.pack
-downloads/git2/github.com.pocoproject.poco.git/objects/pack/pack-9292d1b1088e4aedf9440d6c6ef222c378ec1e99.pack
-downloads/git2/github.com.rpm-software-management.rpm/objects/pack/pack-7dea8625c3ae1fbbda8be272d68ca1cfab1f0890.pack
-downloads/git2/github.com.systemd.systemd-stable.git/objects/pack/pack-0d7b8f930d067e29db4d7cf7f2d40e2c1e9a69a6.pack
-downloads/git2/github.com.vim.vim.git/objects/pack/pack-15b3e3b9b9e2f7a133876d2c7348a4431306b95f.pack
-downloads/git2/salsa.debian.org.dpkg-team.dpkg.git/objects/pack/pack-3836860dd27502da8b542bf51bd1559cdc4b084e.pack
-downloads/git2/salsa.debian.org.iso-codes-team.iso-codes.git/objects/pack/pack-d0a7cbfc9c1a7bcc82ea40a3c331e93b802892e5.pack
 downloads/gitshallow_sourceware.org.git.binutils-gdb.git_71ef12c-1_binutils-2_42-branch.tar.gz
 downloads/linux-6.6.tar.xz
 downloads/linux-firmware-20240312.tar.xz
