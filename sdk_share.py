@@ -37,6 +37,16 @@ CLEAN_PATTERNS = (
     "deploy",
     "deploy-*",
 )
+EXTRA_BUILD_ARTIFACT_PATTERNS = (
+    "hostapd",
+    "wpa_supplicant",
+    "bitbake-cookerdaemon.log",
+    "bitbake-cookerdaemon.log.sdkshare.tar.part-*",
+)
+EXTRA_SOURCE_CLEAN_PATHS = (
+    "downloads/git2",
+    "__pycache__",
+)
 COPY_SKIP_TOP_LEVEL = {".git", ".repo"}
 SKIP_PATH_PATTERNS = (
     ".git/*",
@@ -288,6 +298,13 @@ def build_artifact_paths(repo_root: Path) -> list[Path]:
     candidates: set[Path] = set()
     for pattern in CLEAN_PATTERNS:
         for path in repo_root.glob(f"build-*/{pattern}"):
+            candidates.add(path)
+    for pattern in EXTRA_BUILD_ARTIFACT_PATTERNS:
+        for path in repo_root.glob(f"build-*/{pattern}"):
+            candidates.add(path)
+    for rel_path in EXTRA_SOURCE_CLEAN_PATHS:
+        path = repo_root / rel_path
+        if path.exists():
             candidates.add(path)
     return sorted(path for path in candidates if path.exists())
 
@@ -647,12 +664,36 @@ def github_auth_header(token: str) -> str:
     return f"AUTHORIZATION: basic {payload}"
 
 
-def init_stage_repository(stage_repo: Path, branch: str, git_env: dict[str, str]) -> None:
-    print("Initializing a fresh Git repository in the staged copy")
-    run_git(["init", "-q"], stage_repo, git_env)
-    run_git(["checkout", "-q", "-b", branch], stage_repo, git_env)
+def init_stage_repository(
+    repo_root: Path,
+    stage_repo: Path,
+    resolved_repo: str,
+    branch: str,
+    git_env: dict[str, str],
+) -> None:
+    print("Preparing the staged repository for GitHub push")
+    seed_repo = stage_repo.parent / f".{stage_repo.name}.git-seed"
+    if seed_repo.exists():
+        shutil.rmtree(seed_repo)
+    subprocess.run(
+        ["git", "clone", "--shared", "--no-checkout", "--branch", branch, str(repo_root), str(seed_repo)],
+        env=git_env,
+        check=True,
+        stdout=subprocess.DEVNULL,
+        stderr=subprocess.DEVNULL,
+    )
+    shutil.move(str(seed_repo / ".git"), str(stage_repo / ".git"))
+    shutil.rmtree(seed_repo)
     run_git(["config", "user.name", "SDK Share"], stage_repo, git_env)
     run_git(["config", "user.email", "sdk-share@local"], stage_repo, git_env)
+    run_git(["reset", "--mixed", "HEAD"], stage_repo, git_env)
+    current = git_output(["symbolic-ref", "--short", "HEAD"], stage_repo, git_env)
+    if current != branch:
+        run_git(["checkout", "-q", branch], stage_repo, git_env)
+    existing_remotes = set(git_output(["remote"], stage_repo, git_env).splitlines())
+    if "transfer-target" in existing_remotes:
+        run_git(["remote", "remove", "transfer-target"], stage_repo, git_env)
+    run_git(["remote", "add", "transfer-target", resolved_repo], stage_repo, git_env)
     print()
 
 
@@ -676,7 +717,6 @@ def commit_and_push_all(
     git_config: list[str],
 ) -> None:
     print("Creating a single Git commit for the staged repository")
-    run_git(["remote", "add", "transfer-target", resolved_repo], stage_repo, git_env)
     run_git(["add", "-f", "."], stage_repo, git_env)
     run_git(["commit", "-q", "-m", "Import staged SDK tree"], stage_repo, git_env)
     run_git(
@@ -722,7 +762,6 @@ def commit_and_push_in_batches(
     batches = build_push_batches(stage_repo, batch_limit_bytes)
     print(f"Calculated {len(batches)} push batch(es)")
     print()
-    run_git(["remote", "add", "transfer-target", resolved_repo], stage_repo, git_env)
     progress = ProgressBar(len(batches), "Pushing batches")
     for index, batch in enumerate(batches, start=1):
         run_git(["add", "-f", "--", *batch], stage_repo, git_env)
@@ -793,7 +832,7 @@ def transfer(
     git_env = os.environ.copy()
     git_env["GIT_TERMINAL_PROMPT"] = "0"
     git_config = [f"http.extraheader={github_auth_header(token)}"]
-    init_stage_repository(stage_repo, branch, git_env)
+    init_stage_repository(repo_root, stage_repo, resolved_repo, branch, git_env)
     if batched:
         commit_and_push_in_batches(
             stage_repo,
