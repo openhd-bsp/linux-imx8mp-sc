@@ -11,8 +11,10 @@ df82506f75c46db1e626246437c46bd68da9e37d refs/pull/22/head
 db614c41660fc8c06f7c4a40dd36cd82feb471d5 refs/pull/24/head
 3a7b0e5c1bcf183ee05f5ad5252a50319ffcd1d9 refs/pull/24/merge
 90479454399e33fb69f07bc49f40668cea40a98a refs/pull/25/head
+d0b5e1ce0becb3a3725c0022f3759e61ebbfa296 refs/pull/26/head
+c4a3e88aa221353fb5270d4d8add6bd695c49d24 refs/pull/26/merge
 8aaf01c62846a2b55a8d2ca622fef17b381d7791 refs/pull/7/head
-bb37c5f8e85612c33a9f5f93f83ed9eef32e4b4f refs/pull/7/merge
+d037234e89a6817c8dbf82d1a86b5bb648b89c11 refs/pull/7/merge
 a043e295fc022c2e241719740d21f51d1e8d3d0c refs/pull/9/head
 1f84b0cac33e1263903025c656d6cfeb1e7fd722 refs/tags/1.1.0
 13ac5baf6076459b83ed4884978cd41e08e230e0 refs/tags/last_with_nisplus

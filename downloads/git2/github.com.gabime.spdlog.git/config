@@ -5,3 +5,4 @@
 [remote "origin"]
 	url = https://github.com/gabime/spdlog.git
 	fetch = +refs/*:refs/*
+	mirror = true

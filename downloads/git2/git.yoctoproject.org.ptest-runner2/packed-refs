@@ -1,5 +1,5 @@
 # pack-refs with: peeled fully-peeled sorted 
-b72ec34bccad12a8035c4fbe91d58a6473a2b6cc refs/heads/master
+afe64efbb3f028e898fa9a5efcdc3010ebdf283c refs/heads/master
 b06948fad78168c484690ce6e7cf2efcb1e68c54 refs/meta/cgit
 8bfdf946e784f4d5757bebee1fbc4b4a3d7a95c4 refs/tags/v0.1
 8bfdf946e784f4d5757bebee1fbc4b4a3d7a95c4 refs/tags/v2.0
@@ -18,3 +18,5 @@ bcb82804daa8f725b6add259dcef2067e61a75aa refs/tags/v2.4.2
 95f528cff0bc52903b98c292d4a322fcffa74471 refs/tags/v2.4.4
 aea9f42f87f2a78a973ae22cade8e45259f754e1 refs/tags/v2.4.5
 c99e8c2737ff802f110612cc2d90c60233c33255 refs/tags/v2.4.5.1
+7429fdd52abb5b08a9e8acef14b1bc4604f09c8f refs/tags/v2.5.0
+afe64efbb3f028e898fa9a5efcdc3010ebdf283c refs/tags/v2.5.1

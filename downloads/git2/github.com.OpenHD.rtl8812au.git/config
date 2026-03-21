@@ -5,3 +5,4 @@
 [remote "origin"]
 	url = https://github.com/OpenHD/rtl8812au.git
 	fetch = +refs/*:refs/*
+	mirror = true

@@ -5,3 +5,4 @@
 [remote "origin"]
 	url = https://github.com/nlohmann/json
 	fetch = +refs/*:refs/*
+	mirror = true

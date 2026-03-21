@@ -1,7 +1,8 @@
 # pack-refs with: peeled fully-peeled sorted 
-1ba126286319688bdc386ebeca90ff77eab850f5 refs/heads/libtraceevent
+13701b5532e0c3295bf5670361692b0d0044228d refs/heads/libtraceevent
 3ca06fe9b98a2c6967f0a19bdd189e4b968c05e7 refs/heads/libtraceevent-v1.5
 899d713f5e3c32399bd87032eb05134a9d411b87 refs/heads/libtraceevent-v1.6
+7a8fee57d87aa61c9d578cd67e99d2677b894772 refs/heads/libtraceevent-v1.8
 1ef75522d150221079d679e26251919d0237db20 refs/tags/libtraceevent-1.1.0
 ^77d60b7744d47425de58d5ab71ca650a2dad74cd
 887274797494785109b80d0ea8d79ffd58492200 refs/tags/libtraceevent-1.1.1
@@ -64,3 +65,7 @@ f3527d72dd091afd846549ab73712eab4848b853 refs/tags/libtraceevent-1.8.2
 ^bea29b16e9b0d4eee671ab97ae7d2bdbdb7f8491
 32f1c68e56d7904ef201b2ead05f1111819b1dc5 refs/tags/libtraceevent-1.8.6
 ^98c217427183f66f09f4a27300ad87d71814c38f
+ad60b1beec633b78fec9c71ff052f9cba0a62997 refs/tags/libtraceevent-1.8.7
+^7a8fee57d87aa61c9d578cd67e99d2677b894772
+7a577b4a75a03854f3ac283623d27f1989f85ab6 refs/tags/libtraceevent-1.9.0
+^13701b5532e0c3295bf5670361692b0d0044228d

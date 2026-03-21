@@ -5,3 +5,4 @@
 [remote "origin"]
 	url = https://github.com/OpenHD/OpenHD-WebUI.git
 	fetch = +refs/*:refs/*
+	mirror = true

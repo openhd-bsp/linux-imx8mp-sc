@@ -3,20 +3,20 @@
 10017cf15e17cebe949a66cd10e4d8497b1bdf48 refs/heads/debian-branch
 625f3ef536be33343f13e7846d53d73bb54bc7ad refs/heads/debian-packaging
 656a752f9c16dbba98392f859dbb2401d9035e91 refs/heads/debian-squeeze
-ddf7aac7d4f90d23eed29789a773f886b39013bb refs/heads/debian/backports
+f914d8f81e41336b6442192066ca34113113a8ee refs/heads/debian/backports
 5ce3e7fa4e54a7c1dc858d6fc6dbe5521d41c8ec refs/heads/debian/experimental
-cbf9a5b817d194cd0776d030bdf7c1fca5a0e547 refs/heads/debian/master
+791693742611df1d92b917c4e4dee4b99dde3bbf refs/heads/debian/master
 e042d2a593358a8b4cf771e3bdab2816a458a07e refs/heads/debian/stable
 cb6769959f8c9763f0ccaabd7dec41b72253fbc8 refs/heads/e2fsprogs-interim
 044d5d5dad568fde59a22e863ad193f6722947ce refs/heads/fix-for-756922
-4aba12dc19a95626eb7fa1df2d19c5235c2bc848 refs/heads/maint
+7ee1d505ef3b37831215f490411f346fe57e9053 refs/heads/maint
 1a5205df40e4483525f5161f2df323ef6f412470 refs/heads/maint-1.45
 ef4e0825eee3d720a2df762249f0e80bb5f3ef3b refs/heads/maint-1.46
 da631e117dcf8797bfda0f48bdaa05ac0fbcf7af refs/heads/maint-1.47
-0b2752ce6276b383a5254cd766204f81f41b6631 refs/heads/master
-0b2752ce6276b383a5254cd766204f81f41b6631 refs/heads/next
+7ee1d505ef3b37831215f490411f346fe57e9053 refs/heads/master
+7ee1d505ef3b37831215f490411f346fe57e9053 refs/heads/next
 c2f04f7da367ffc4cd64be5b2285878ad23b3e7f refs/heads/pfsck
-34172d14fad3977b039b2771d6d3c2fd5e0c134c refs/heads/pristine-tar
+9e9609dba07d7c90f4e52412a12940696d638ec7 refs/heads/pristine-tar
 c6129724af5bc5f772b1a51861d67fa7c4a2ccb2 refs/heads/pthreads
 66fe42db7ae4657075971f70cf99f128de1d37cc refs/heads/pu
 b9c1c9d6cec025f42ce86993306af6c881b20899 refs/heads/retry-write
@@ -176,6 +176,8 @@ c011f4c5567fe45d8e4f872b174c6088e4d8638e refs/tags/archive/debian/1.47.2_rc1-2
 ^1090cb21e0207c380bc843bd6cc58e60ffe63ffd
 488940c4f6839584e1d54ed2d88d0257a7d87617 refs/tags/archive/debian/1.47.3_rc3-1
 ^5ce3e7fa4e54a7c1dc858d6fc6dbe5521d41c8ec
+057f203961cb6efdaefc2640530623e37a3c2190 refs/tags/archive/debian/1.47.4-1
+^791693742611df1d92b917c4e4dee4b99dde3bbf
 0fb2d1d34660d2d87d2cbf4c81e3715a60ffb11c refs/tags/debian-1.41.12-2
 c1f1d9a95a69a8be1286321ff64de43f19658451 refs/tags/debian-1.41.12-3
 6578f7688ccb8131d77af7b9d97ac96776ca1106 refs/tags/debian-1.41.12-4
@@ -277,6 +279,8 @@ fb2fcbe7c7523b646e863ee34f16c69aa684a73c refs/tags/debian/1.47.3_rc2-1
 ^1090cb21e0207c380bc843bd6cc58e60ffe63ffd
 b206d4695196b079106a386398c2a012cb8dca09 refs/tags/debian/1.47.3_rc3-1
 ^5ce3e7fa4e54a7c1dc858d6fc6dbe5521d41c8ec
+163e471398e2195eb7a0b5610f2d4650a678ea01 refs/tags/debian/1.47.4-1
+^791693742611df1d92b917c4e4dee4b99dde3bbf
 7a245922084167370eff18b5155b7bfe3f6b15bd refs/tags/v1.40
 ^dc26a9d54d25336c32e4e1601bdbcb7f25fef028
 469ea888da9f2822c5d6c4519a5d00f9469a4f8d refs/tags/v1.40.1
@@ -485,3 +489,5 @@ bf3f9b812eb626a83d4aa0be2577148a51e51584 refs/tags/v1.47.3-rc1
 ^8f46874df411b1b879087c26654ae77d765eb00f
 56d2d78e9449be97b39cd8b0da35f5b249fbcd25 refs/tags/v1.47.3-rc3
 ^e4b0a53e512c455bb8065b9a4b8e82b4ccd82010
+ece89fac4603e400155b7bbf6326284f8511bca9 refs/tags/v1.47.4
+^7ee1d505ef3b37831215f490411f346fe57e9053

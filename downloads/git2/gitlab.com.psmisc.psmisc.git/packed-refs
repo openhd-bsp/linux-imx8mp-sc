@@ -7,13 +7,7 @@ ad03e054ebe563251f2a61bf73a534e004497435 refs/merge-requests/2/head
 aab91ac0c8b33be9eb4b1b47181f660468286151 refs/merge-requests/3/head
 4e47d8583c15f1439a3793b77dd9a4afc1039f06 refs/merge-requests/33/head
 27b7ed012053b3eb4143d2630108686fa340599a refs/merge-requests/33/merge
-8a992d75cbcf5dc26ac2cfa191f52e99eac6c88b refs/merge-requests/38/head
-6714886b86d6ce0ae324ad2c180d679a2f5e9a43 refs/merge-requests/38/merge
-dd9b91670ab2cf618e619b59aec62a73446a1da9 refs/merge-requests/39/head
-c02eb32be696b1da3490f0fcc13181603e411f2a refs/merge-requests/39/merge
 5d708c54c7040b43c782a32fd72404afb0cc8025 refs/merge-requests/4/head
-366b0071aa889d2620b78f1cf4e197771171aea8 refs/merge-requests/40/head
-0d511a0b65b28c97fca8bb56811cc664cb86f2e8 refs/merge-requests/40/merge
 86820248bbcfc2543ed8ec7260323b71f394e664 refs/merge-requests/41/head
 f38e9518e52d4978cc5c574c4a31572e02d54c22 refs/merge-requests/41/merge
 ad3bc41f12828f48b006c6608f3239366a058e79 refs/merge-requests/42/head
@@ -22,6 +16,8 @@ e8d3eb3860079307f66d83161dae50419494d701 refs/merge-requests/42/merge
 00f1b79ac3de273a193b01e6ec0bacd021ea9cc2 refs/merge-requests/43/merge
 9a16f10de28abab9cef12f6eef61d32799f64e65 refs/merge-requests/44/head
 04808bd169ebb7fb928ac36516844923807b177e refs/merge-requests/44/merge
+6aa430f909ea83336f53662739ff89aec03a3f7d refs/merge-requests/45/head
+eda329646ce09f4c4cc98fb4161351dcbc0b850e refs/merge-requests/45/merge
 6a904d283c0ee04bec997f8cf1e985983176e3f8 refs/merge-requests/7/head
 913265dd3425d3f64446cba2ad08844ea580f912 refs/merge-requests/8/head
 8d799787c880621a874187a54bf7ed23f40c4771 refs/merge-requests/9/head

@@ -5,3 +5,4 @@
 [remote "origin"]
 	url = https://github.com/openhd/OpenHD.git
 	fetch = +refs/*:refs/*
+	mirror = true

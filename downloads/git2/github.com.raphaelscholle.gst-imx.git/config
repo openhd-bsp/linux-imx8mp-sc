@@ -5,3 +5,4 @@
 [remote "origin"]
 	url = https://github.com/raphaelscholle/gst-imx.git
 	fetch = +refs/*:refs/*
+	mirror = true

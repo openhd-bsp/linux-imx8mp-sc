@@ -1,7 +1,7 @@
 # pack-refs with: peeled fully-peeled sorted 
 d7ac0805bd21fe293b85ea23ba714e617ac2b701 refs/heads/hash-stat2
-6b93232c972b338e972a5d4ccc2651ff78cb359e refs/heads/kmod-34.y
-a403590f6e9f25216480abdb7e038257d706f17f refs/heads/master
+4692b8bf2f41e1c4e357b7ba1b2d7adca63b3067 refs/heads/kmod-34.y
+326b32c70c9547d37d4fe147e5927b64fd842cf3 refs/heads/master
 fac5a9610726e544dc88e4e7dd724d4471e56e89 refs/tags/v1
 ^89eba7cb77fa46e78295a81ad7424ec7d22d70e5
 4cc593e8df0616e13a6960d98af27f09645612ab refs/tags/v10

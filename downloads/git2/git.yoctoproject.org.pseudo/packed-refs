@@ -39,8 +39,11 @@ a4c8c34eef25156fc781c0e9b522c7207a5d316b refs/heads/SEEBS_CLONE_HACK
 3532684e2f4c8a4e9086365adcda4079d20f0a92 refs/heads/WRLINUX_4_3
 55b2bf57cf3a58c0d973b8d7ccc464c8e2cebab8 refs/heads/WRLINUX_NOCLONE
 7ddd686f09c1af388b16cdaf892ab90cb3ed24be refs/heads/diagtests
-3fac97341f0f8270ca28a91098d0a58ca306a6bd refs/heads/fray/master
-d1db9c219abf92f15303486a409292237f1fc790 refs/heads/master
+750362cc7b9fa58dffccd95d919b435c6d8ac614 refs/heads/fray/master
+e6dec342ad186afa9f6df4c4365c79bbe7e20856 refs/heads/fray/master-wip
+0c330bd36d68bd54fe32a3d1d17c743c7047fb83 refs/heads/fray/openat2
+a6c31c12ea4bd66eadb536e9c69a139ee3fc385f refs/heads/fray/openat2-bad
+56e1f8df4761da60e41812fc32b1de797d1765e9 refs/heads/master
 cc1f6167cb5065daba1462056e2dce8ff72aa855 refs/heads/oe-core
 ec6151a2b057109b3f798f151a36690af582e166 refs/heads/oe-core-next
 0264e088d6a34b3f7bef1742a897c08357a6ce98 refs/heads/ross/attr
@@ -48,6 +51,7 @@ ec6151a2b057109b3f798f151a36690af582e166 refs/heads/oe-core-next
 f2b37a6a9ac584bdc8326d1a699e1ee100b578db refs/heads/ross/fixes
 060058bb29f70b244e685b3c704eb0641b736f73 refs/heads/ross/master
 42fa42207546be445caa5326d2915b94c3e12d4a refs/heads/rpurdie/include
+dfce309928af6194c29b4f390b87e73347b9e3c8 refs/heads/rpurdie/master
 bbc4bcac601833a2aa82019d08325e63822db726 refs/heads/seebs/evlog
 bdb1e964d343f776382dcf498809f556692e52a6 refs/heads/seebs/reshuffle
 87c53ea58befef48677846693aab445df1850e16 refs/heads/seebs/xattr
@@ -88,3 +92,4 @@ fb3a0eeb7def32aaf2288e1b73573eb2f1862acf refs/tags/pseudo-1.8.2
 23f089f480e04ca1b88df8fe1f46b864fee2a0b8 refs/tags/pseudo-1.9.0
 0841347d18dc76f159010910f6dd47b9fc2ca158 refs/tags/pseudo-1.9.1
 b4645cb30573c5b3d5e94b9d50e1e2f8beefe9be refs/tags/pseudo-1.9.2
+750362cc7b9fa58dffccd95d919b435c6d8ac614 refs/tags/pseudo-1.9.3
