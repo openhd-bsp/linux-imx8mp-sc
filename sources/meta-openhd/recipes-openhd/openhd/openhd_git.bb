@@ -4,7 +4,7 @@ LIC_FILES_CHKSUM = "file://../LICENSE;md5=1ebbd3e34237af26da5dc08a4e440464"
 
 
 
-SRC_URI = "gitsm://github.com/openhd/OpenHD.git;protocol=https;branch=dev-release \
+SRC_URI = "gitsm://github.com/openhd/OpenHD.git;protocol=https;branch=openhd-3.0 \
            file://openhd_mod-sys-utils-order.conf \
           "
 

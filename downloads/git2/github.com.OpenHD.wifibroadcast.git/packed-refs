@@ -6,7 +6,7 @@ db3ca4ce1a67ee07827af1d51da5915db892a979 refs/heads/docs
 a98f3540cc583ae4171e4235a282b8e888023614 refs/heads/explanation-wifibroadcast-8929796797929202429
 137cf15d43cc9d2df9220b7e3d787c8e04caf74f refs/heads/ext-pcap
 14d5fdb1b49a715529a39ce3583dae1e45776aeb refs/heads/master
-c8dcc03c5a88993ee5a7d702e103c6fb9ddd1643 refs/heads/no-bindphrase-no-video-encryption
+b17b37bc6d585073f63f11f618af11903442036a refs/heads/no-bindphrase-no-video-encryption
 c22c564d57eba1bc2d1b63f7c717a9b4158acd42 refs/heads/openhd-release
 3c223a04a791178577130bf5bbaa580195ef69c5 refs/heads/pre-unify-tx-rx
 6cfc44355905e1158ad6a16a9b1efbb99e958ef8 refs/heads/x20_jumbo_frames

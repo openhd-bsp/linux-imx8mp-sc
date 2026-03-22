@@ -5,4 +5,3 @@
 [remote "origin"]
 	url = https://github.com/OpenHD/wifibroadcast.git
 	fetch = +refs/*:refs/*
-	mirror = true
